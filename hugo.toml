@@ -1,0 +1,4 @@
+baseURL = 'https://cbg.design/'
+languageCode = 'en-gb'
+title = 'Charlie Bob Gordon: Digital Designer'
+theme = 'cbg'
