@@ -1,0 +1,6 @@
+<h1><img src="/logo.svg" alt='
+    {{ if (eq .Section "blog") }}
+        {{ .Site.Params.blog_title }}
+        {{ else }}
+            {{ site.Title }}
+    {{ end }}'/></h1>

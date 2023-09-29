@@ -1,0 +1,22 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+  {{ partial "terms.html" (dict "taxonomy" "tags" "page" .) }}
+
+  {{ .Content }}
+
+  <h3>Services</h3>
+  <ul>
+    <li>Service</li>
+  </ul>
+
+  <h3>Tools</h3>
+  <ul>
+    <li>Tool</li>
+  </ul>
+
+  <h3>Personal interests</h3>
+  <ul>
+    <li>Interest</li>
+  </ul>
+
+{{ end }}

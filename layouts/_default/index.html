@@ -1,0 +1,19 @@
+{{ define "main" }}
+
+
+  <div class="section-intro">{{ .Content }}</div>
+  
+</div>
+</header>
+<main class="wrapper">
+  {{range where .Site.RegularPages "Section" "work"}}
+    <a class="project-item" href="{{ .RelPermalink }}">
+      <div class="project-info">
+        <h3>{{ .LinkTitle }}</h3>
+        {{ partial "terms.html" (dict "taxonomy" "tags" "page" .) }}
+      </div>
+      <img src="{{ .RelPermalink }}{{ .Params.featured_image }}" alt="{{ .Params.featured_image_alt }}"/>
+    </a>
+  {{ end }}
+  </main>
+{{ end }}

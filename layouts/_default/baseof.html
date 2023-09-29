@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="{{ or site.Language.LanguageCode site.Language.Lang }}" dir="{{ or site.Language.LanguageDirection `ltr` }}">
+<head>
+  {{ partial "head.html" . }}
+  <title>
+    {{ if (eq .Section "blog") }}
+    {{ if eq .RelPermalink "/blog/"}}{{ .Site.Params.blog_title }}{{ else }}{{ printf "%s | %s" .Title .Site.Params.blog_title }}{{ end }}
+      {{ else }}{{ if .IsHome }}{{ site.Title }}{{ else }}{{ printf "%s | %s" .Title site.Title }}{{ end }}
+    {{ end }}
+  </title>
+</head>
+<body {{ if eq .BundleType "leaf" }}class='leaf'{{ end }}>
+  <header>
+    <div class="wrapper">
+      <div class="top-bar">
+        {{ partial "header.html" . }}
+        {{ if (eq .Section "blog") }}
+          {{ partial "menu.html" (dict "menuID" "blog" "page" .) }}
+          {{ else }} {{ partial "menu.html" (dict "menuID" "main" "page" .) }}
+        {{ end }}
+      </div>
+
+      {{ block "main" . }}{{ end }}
+
+  <footer>
+    <div class="wrapper">
+      {{ block "signoff" . }}{{ end }}
+      {{ partial "footer.html" . }}
+    </div>
+  </footer>
+</body>
+</html>
+
+{{ define "signoff" }}
+<div class="footer-main">
+  <div class="section-intro">
+    <h2>
+      {{ if (eq .Section "blog") }}
+        {{ .CurrentSection.Params.signoff }}
+        {{ else }} {{ with .Site.GetPage "/" }}{{ .Params.signoff }}{{ end }}
+      {{ end }}
+
+    </h2>
+    {{ if (eq .Section "blog") }}
+      {{ partial "menu.html" (dict "menuID" "blog-signoff" "page" .) }}
+      {{ else }} {{ partial "menu.html" (dict "menuID" "main-signoff" "page" .) }}
+    {{ end }}
+  </div>
+  {{ if (eq .Section "blog") }}
+    {{ partial "menu.html" (dict "menuID" "blog" "page" .) }}
+    {{ else }} {{ partial "menu.html" (dict "menuID" "main" "page" .) }}
+  {{ end }}
+</div>
+{{ end }}
