@@ -23,17 +23,20 @@ a {
   font-family: Poppins;
   src: url('/poppins-light.ttf') format('truetype');
   font-weight: normal;
+  font-display: swap
 }
 
 @font-face {
   font-family: Poppins;
   src: url('/poppins-bold.ttf') format('truetype');
   font-weight: bold;
+  font-display: swap
 }
 
 @font-face {
   font-family: "Source Serif 4";
   src: url('/sourceserifpro-regular.otf') format('opentype');
+  font-display: swap
 }
 
 h1, h2, h3, h4, h5, h6 {
