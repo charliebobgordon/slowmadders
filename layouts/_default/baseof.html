@@ -2,7 +2,6 @@
 <html lang="{{ or site.Language.LanguageCode site.Language.Lang }}" dir="{{ or site.Language.LanguageDirection `ltr` }}">
 <head>
   {{ partial "head.html" . }}
-  {{ block "ad-head" . }}{{ end }}
   <title>
     {{ if (eq .Section "blog") }}
     {{ if eq .RelPermalink "/blog/"}}{{ .Site.Params.blog_title }}{{ else }}{{ printf "%s | %s" .Title .Site.Params.blog_title }}{{ end }}
@@ -29,6 +28,7 @@
       {{ partial "footer.html" . }}
     </div>
   </footer>
+  {{ block "ad-runner" . }}{{ end }}
 </body>
 </html>
 
