@@ -1,6 +1,26 @@
-<h1><img src="/logo.svg" width="74" height="43" alt='
+<h1>
+
+    <a
+    
     {{ if (eq .Section "blog") }}
-        {{ .Site.Params.blog_title }}
+        href="/blog"
         {{ else }}
+        href="/"
+    {{ end }}
+    
+    >
+        
+        <img src="/logo.svg" width="74" height="43" alt='
+        {{ if (eq .Section "blog") }}
+            {{ .Site.Params.blog_title }}
+            {{ else }}
             {{ site.Title }}
-    {{ end }}'/></h1>
+        {{ end }}'/>
+        
+    </a>
+
+    {{ if (eq .Section "blog") }}
+        <span>Vanlife blog</span>
+    {{ end }}
+
+</h1>

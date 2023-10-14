@@ -41,18 +41,13 @@ name = 'Dribbble'
 weight = 40
 
 [[menus.blog]]
-name = 'Blog'
+name = 'All posts'
 pageRef = '/blog'
 weight = 20
 
-[[menus.blog]]
-url = 'mailto:hello@cbg.design'
-name = 'hello@cbg.design'
-weight = 30
-
 [[menus.blog-signoff]]
-url = 'mailto:hello@cbg.design'
-name = 'hello@cbg.design'
+url = 'mailto:blog@cbg.design'
+name = 'blog@cbg.design'
 weight = 10
 
 [[menus.blog-signoff]]
