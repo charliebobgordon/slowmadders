@@ -6,4 +6,4 @@ signoff = "Let's work together to build beautiful things, that work."
 aliases = ['/work/']
 +++
 
-## Howdy! 😁 I’m Charlie, a digital designer with 11 years of agency experience, working remotely on the road. 🚐
+## Hello! 😁 I’m Charlie, a digital designer with 11 years of agency experience, working remotely on the road. 🚐
