@@ -86,8 +86,8 @@ header .wrapper, footer .wrapper {
 
 header, footer {
   background-color: var(--brand);
-  min-height: 85vh;
-  height: 85vh;
+  min-height: 560px;
+  height: 0;
 }
 
 body.leaf header, body.about header {
@@ -421,10 +421,10 @@ p:first-child {
     gap: 15px;
   }
 
-  footer {
+  /* footer {
     height: auto;
     min-height: auto;
-  }
+  } */
 
   .project-overview {
     columns: 1;
