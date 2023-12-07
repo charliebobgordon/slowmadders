@@ -409,7 +409,7 @@ p:first-child {
 @media only screen and (max-width: 640px)  {
   
   .wrapper {
-    padding: 60px 30px;
+    padding: 16vw 8vw;
   }
 
   header .wrapper, footer .wrapper {
