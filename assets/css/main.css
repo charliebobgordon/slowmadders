@@ -413,7 +413,7 @@ p:first-child {
   }
 
   header .wrapper, footer .wrapper {
-    padding: 30px;
+    padding: 6vw;
   }
 
   nav ul {
@@ -425,6 +425,10 @@ p:first-child {
     height: auto;
     min-height: auto;
   } */
+
+  header nav {
+    top: 0;
+  }
 
   .project-overview {
     columns: 1;
@@ -444,6 +448,11 @@ p:first-child {
 
   .about-lists {
     display: block;
+  }
+
+  .custom-labels {
+    gap: 25px;
+    flex-wrap: wrap;
   }
 
 }
