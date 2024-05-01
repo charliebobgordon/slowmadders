@@ -3,9 +3,10 @@
 <head>
   {{ partial "head.html" . }}
   <title>
-    {{ if (eq .Section "blog") }}
-    {{ if eq .RelPermalink "/blog/"}}{{ .Site.Params.blog_title }}{{ else }}{{ printf "%s | %s" .Title .Site.Params.blog_title }}{{ end }}
-      {{ else }}{{ if .IsHome }}{{ site.Title }}{{ else }}{{ printf "%s | %s" .Title site.Title }}{{ end }}
+    {{ if .IsHome }}
+      {{ site.Title }}
+      {{ else }}
+        {{ printf "%s | %s" .Title site.Title }}
     {{ end }}
   </title>
 </head>
@@ -14,10 +15,8 @@
     <div class="wrapper">
       <div class="top-bar">
         {{ partial "header.html" . }}
-        {{ if (eq .Section "blog") }}
-          {{ partial "menu.html" (dict "menuID" "blog" "page" .) }}
-          {{ else }} {{ partial "menu.html" (dict "menuID" "main" "page" .) }}
-        {{ end }}
+        {{ partial "menu.html" (dict "menuID" "main" "page" .) }}
+        {{ partial "menu.html" (dict "menuID" "main-instagram" "page" .) }}
       </div>
 
       {{ block "main" . }}{{ end }}
@@ -36,20 +35,11 @@
 <div class="footer-main">
   <div class="section-intro">
     <h2>
-      {{ if (eq .Section "blog") }}
-        {{ .CurrentSection.Params.signoff }}
-        {{ else }} {{ with .Site.GetPage "/" }}{{ .Params.signoff }}{{ end }}
-      {{ end }}
+      {{ with .Site.GetPage "/" }}{{ .Params.signoff }}{{ end }}
 
     </h2>
-    {{ if (eq .Section "blog") }}
-      {{ partial "menu.html" (dict "menuID" "blog-signoff" "page" .) }}
-      {{ else }} {{ partial "menu.html" (dict "menuID" "main-signoff" "page" .) }}
-    {{ end }}
+    {{ partial "menu.html" (dict "menuID" "main-signoff" "page" .) }}
   </div>
-  {{ if (eq .Section "blog") }}
-    {{ partial "menu.html" (dict "menuID" "blog" "page" .) }}
-    {{ else }} {{ partial "menu.html" (dict "menuID" "main" "page" .) }}
-  {{ end }}
+  {{ partial "menu.html" (dict "menuID" "main-instagram" "page" .) }}
 </div>
 {{ end }}

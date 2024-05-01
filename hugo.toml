@@ -1,69 +1,29 @@
-baseURL = 'https://cbg.design/'
+baseURL = 'https://slowmadders.com/'
 languageCode = 'en-gb'
-title = 'Charlie Gordon: Digital Designer'
+title = 'Vanlife Travel Blog — Slowmadders'
 
-[params]
-blog_title = 'Charlie Gordon: Vanlife Blog'
 
 [[menus.main]]
-name = 'Work'
+name = 'Vanlife Travel Blog'
 pageRef = '/'
 weight = 10
 
 [[menus.main]]
-name = 'About'
+name = 'Our story'
 pageRef = '/about'
 weight = 20
 
-[[menus.main]]
-url = 'mailto:hello@cbg.design'
-name = 'hello@cbg.design'
-weight = 30
 
-[[menus.main-signoff]]
-url = 'mailto:hello@cbg.design'
-name = 'hello@cbg.design'
-weight = 10
-
-[[menus.main-signoff]]
-url = 'mailto:hello@cbg.design'
-name = 'CV'
-weight = 20
-
-[[menus.main-signoff]]
-url = 'https://www.linkedin.com/in/charliegordon/'
-name = 'LinkedIn'
-weight = 30
-
-[[menus.main-signoff]]
-url = 'https://dribbble.com/cbg'
-name = 'Dribbble'
-weight = 40
-
-[[menus.blog]]
-name = 'All posts'
-pageRef = '/blog'
-weight = 20
-
-[[menus.blog-signoff]]
-url = 'mailto:blog@cbg.design'
-name = 'blog@cbg.design'
-weight = 10
-
-[[menus.blog-signoff]]
-url = 'https://www.instagram.com/emilyvancharlie/'
+[[menus.main-instagram]]
+url = 'https://www.instagram.com/slowmadders/'
 name = 'Instagram'
-weight = 20
-
-[[menus.blog-signoff]]
-url = 'https://www.linkedin.com/in/charliegordon/'
-name = 'LinkedIn'
 weight = 30
 
-[[menus.blog-signoff]]
-url = 'https://dribbble.com/cbg'
-name = 'Dribbble'
-weight = 30
+
+[[menus.main-signoff]]
+url = 'mailto:hello@slowmadders.com'
+name = 'hello@slowmadders.com'
+weight = 10
 
 
 [module]
