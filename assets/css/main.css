@@ -1,8 +1,9 @@
 /* Reset and general styles */
 :root {
-  --brand: #15241E;
+  --block: #15241E;
   --ink: #454545;
   --paper: #FAFAF5;
+  --bright: #00FFA3;
 }
 
 body {
@@ -85,7 +86,7 @@ header .wrapper, footer .wrapper {
 }
 
 header, footer {
-  background-color: var(--brand);
+  background-color: var(--block);
   min-height: 560px;
   height: 0;
 }
@@ -148,11 +149,17 @@ header .about-intro {
 }
 
 h2, h3 {
-  font-size: 32px;
+  font-size: 36px;
+  line-height: 140%;
+  text-wrap: balance;
 }
 
 .section-intro h2 {
-  margin: 0
+  margin: 0;
+}
+
+body:not(.leaf) header .section-intro h2 {
+  font-weight: bold;
 }
 
 footer .section-intro {
@@ -162,6 +169,7 @@ footer .section-intro {
 header .top-bar {
   margin-bottom: 60px;
   font-size: 14px;
+  z-index: 1;
 }
 
 header nav {
@@ -179,11 +187,49 @@ header ul, footer ul {
   display: flex;
   column-gap: 30px;
   padding: 0;
+}
+
+header .top-bar ul, footer ul {
   text-transform: lowercase;
 }
 
 header ul li, footer ul li {
   display: inline;
+}
+
+
+
+
+
+.bubble-image {
+  mask: url(/bubble.svg) no-repeat;
+  mask-size: contain;
+  filter: drop-shadow(1px 1px 4px rgba(0,0,0,0.75));
+}
+
+header .bubble-image {
+  position: absolute;
+  width: 950px;
+  top: -40%;
+  left: -16%;
+}
+
+body:not(.leaf) header .section-intro {
+  width: 40%;
+  margin-left: auto;
+  gap: 0px;
+}
+
+header p {
+  color: var(--paper);
+  opacity: 0.75;
+}
+
+header a {
+  color: var(--bright);
+  text-decoration: underline;
+  text-underline-offset: 10%;
+  text-decoration-thickness: 1px;
 }
 
 
@@ -257,7 +303,7 @@ header .tags li {
   flex-basis: 100%;
 }
 
-.leaf .blog-wrapper {
+p, a {
   font-family: "Source Serif 4", "Times New Roman";
   font-size: 20px;
   line-height: 32px;
