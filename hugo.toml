@@ -14,7 +14,7 @@ pageRef = '/about'
 weight = 20
 
 
-[[menus.main-instagram]]
+[[menus.main]]
 url = 'https://www.instagram.com/slowmadders/'
 name = 'Instagram'
 weight = 30

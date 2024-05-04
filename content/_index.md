@@ -10,5 +10,5 @@ aliases = ['/work/']
 ## Vanlife travel blog (and beyond!!)
 We’re Charlie and Emily. We made this spot to share our journey as slow nomads, whether we're driving in our van or exploring out of a backpack. Join us as we find the snow, bask in the sun, and just do life.
 
-- [Browse articles](#)
+- [Browse the blogs](#)
 - [Our story](#)
