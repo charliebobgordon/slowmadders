@@ -70,6 +70,9 @@ a {
 
 .section-intro a {
   color: var(--brighter);
+}
+
+header .section-intro a {
   text-decoration: underline;
   text-underline-offset: 10%;
   text-decoration-thickness: 1px;
@@ -92,6 +95,10 @@ header .wrapper, footer .wrapper {
   padding: 30px 80px 80px;
 }
 
+footer .wrapper {
+  padding: 80px 80px 30px;
+}
+
 header, footer {
   background-color: var(--block);
   min-height: 560px;
@@ -107,22 +114,23 @@ h2, h3 {
   margin: 0;
 }
 
-header nav li:last-child, footer nav li:last-child {
+header nav li:last-child {
   margin-left: auto;
   height: 0;
   position: relative;
   top: -10px;
 }
 
-header nav li:last-child a, footer nav li:last-child a {
+:is(header,footer) nav li:last-child a {
   background-image: url(/instagram.svg);
   display: block;
   width: 66px;
   height: 32px;
   text-indent: -99999em;
+  position: relative;
 }
 
-header nav li:last-child a:before, footer nav li:last-child a:before {
+:is(header,footer) nav li:last-child a:before {
   content: '';
   width: 24px;
   height: 24px;
@@ -133,6 +141,10 @@ header nav li:last-child a:before, footer nav li:last-child a:before {
   position: absolute;
   top: 4px;
   left: 4px;
+}
+
+footer nav:first-child li:last-child a {
+  display: none;
 }
 
 header ul, footer ul {
@@ -149,19 +161,23 @@ header ul li, footer ul li {
   display: inline;
 }
 
+header .top-bar, footer nav:first-child {
+  font-size: 14px;
+  line-height: 140%;
+}
+
+.section-intro {
+  display: flex;
+  flex-direction: column;
+  max-width: 784px;
+}
+
 
 
 /* Header specific*/
 
 header h1 {
   margin: 0;
-}
-
-header .section-intro {
-  display: flex;
-  flex-direction: column;
-  gap: 40px;
-  max-width: 784px;
 }
 
 header {
@@ -175,6 +191,7 @@ header .section-intro {
 
 header .section-intro:has(.tags) {
   margin-top: 80px;
+  gap: 40px;
 }
 
 header:has(.tags) h2, footer h2 {
@@ -184,7 +201,6 @@ header:has(.tags) h2, footer h2 {
 header .top-bar {
   display: flex;
   margin-bottom: 60px;
-  font-size: 14px;
   z-index: 1;
   gap: 20px;
   align-items: baseline;
@@ -199,7 +215,6 @@ header .top-bar h1, header .top-bar ul {
 header .section-intro:has(p) {
   width: 42%;
   margin-left: auto;
-  gap: 0px;
 }
 
 header .section-intro p {
@@ -210,12 +225,21 @@ header nav {
   width: 100%;
 }
 
+footer .section-intro {
+  gap: 20px;
+}
+
+footer .section-intro nav ul {
+  gap: 40px;
+}
+
 
 
 /* Footer specific */
 
 .footer-main {
   align-items: baseline;
+  flex-direction: row-reverse;
 }
 
 .footer-main, .footer-bar {
@@ -225,13 +249,14 @@ header nav {
 }
 
 .footer-bar p {
-  font-size: 12px;
-  width: 329px;
+  width: 360px;
   text-align: right;
+  font-size: 12px;
+  line-height: 140%;
 }
 
-footer .section-intro {
-  max-width: 578px;
+footer nav:first-child {
+  margin-right: -20px;
 }
 
 
@@ -373,7 +398,6 @@ header .tags li {
   }
 
   nav ul {
-    font-size: 14px;
     gap: 15px;
   }
 
@@ -384,14 +408,6 @@ header .tags li {
   main img {
     width: 100%;
     margin-bottom: 80px;
-  }
-
-  header h1 img, footer .footer-bar img {
-    width: 54px;
-  }
-
-  h2, h3, .about-lists li {
-    font-size: 28px;
   }
 
   .custom-labels {

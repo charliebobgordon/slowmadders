@@ -33,11 +33,9 @@
 
 {{ define "signoff" }}
 <div class="footer-main">
+  {{ partial "menu.html" (dict "menuID" "main" "page" .) }}
   <div class="section-intro">
-    <h2>
-      {{ with .Site.GetPage "/" }}{{ .Params.signoff }}{{ end }}
-
-    </h2>
+    <h2>{{ with .Site.GetPage "/" }}{{ .Params.signoff }}{{ end }}</h2>
     {{ partial "menu.html" (dict "menuID" "main-signoff" "page" .) }}
   </div>
   {{ partial "menu.html" (dict "menuID" "main-instagram" "page" .) }}
