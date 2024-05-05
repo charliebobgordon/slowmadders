@@ -9,17 +9,15 @@
 </header>
 
 <main class="wrapper blog-wrapper">
-  <h3>{{ .Params.heading }}</h3>
+  <h2 class="listing-heading">{{ .Params.heading }}</h2>
   {{ range $k, $v := (where site.RegularPages "Type" "blog") }}
     {{ if and $k (modBool $k 2) }}
       {{ partial "ad.html"  }}
     {{ end }}
 
-    <a class="project-item" href="{{ .RelPermalink }}">
-      <div class="project-info">
-        <h3>{{ .LinkTitle }}</h3>
-        {{ partial "terms.html" (dict "taxonomy" "tags" "page" .) }}
-      </div>
+    <a class="post-card" href="{{ .RelPermalink }}">
+      <h3>{{ .LinkTitle }}</h3>
+      {{ partial "terms.html" (dict "taxonomy" "tags" "page" .) }}
     </a>
   {{ end }}
   
