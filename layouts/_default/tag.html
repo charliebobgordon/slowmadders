@@ -1,0 +1,30 @@
+{{ define "main" }}
+
+  <div class="section-intro">
+    <h1>{{ .Title }} articles</h1>
+    {{ partial "terms.html" (dict "taxonomy" "tags" "page" .) }}
+  </div>
+
+  </div>
+  
+  </header>
+
+  <main class="wrapper reading-area">
+    {{ range $k, $v := (.Data.Pages) }}
+      {{ if and $k (modBool $k 2) }}
+        {{ partial "ad.html"  }}
+      {{ end }}
+  
+      <article>
+        <a class="post-card" href="{{ .RelPermalink }}"><h3>{{ .LinkTitle }}</h3></a>
+        {{ partial "terms.html" (dict "taxonomy" "tags" "page" .) }}
+      </article>
+    {{ end }}
+    
+  </main>
+  
+  {{ end }}
+  
+  {{ define "ad-runner" }}
+    {{ partial "ad-runner.html"  }}
+  {{ end }}

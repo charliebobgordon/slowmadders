@@ -1,0 +1,74 @@
+{{ define "main" }}
+
+  <div class="section-intro">
+    <h1>{{ .Title }}</h1>
+    {{ partial "terms.html" (dict "taxonomy" "tags" "page" .) }}
+
+    <div class="custom-labels">
+      <div class="custom-label reading-time">
+        <span>Reading time</span>
+        <span>{{ .ReadingTime }} min</span>
+      </div>
+      <div class="custom-label posted">
+        <span>Posted</span>
+        <span>{{ .PublishDate.Format "2 January 2006" }}</span>
+      </div>
+    </div>
+
+  </div>
+
+  <div class="bubble-mask">
+    <img src="{{ .Params.Image }}" alt="{{ .Title }}" class="bubble-image">
+  </div>
+
+  </div>
+  
+  </header>
+
+  <div class="wrapper">
+
+  <main class="reading-area">
+    {{ .Content }}
+  </main>
+  
+  <div class="sidebar">
+    
+    <ins class="adsbygoogle"
+    style="display:inline-block;width:300px;height:250px"
+    data-ad-client="ca-pub-7352398288541323"
+    data-ad-slot="4653598909">
+    </ins>
+    <script>
+      (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
+
+    <article>
+
+      <div class="bubble-mask">
+        <img src="{{ .Params.Image }}" alt="{{ .Title }}" class="bubble-image">
+      </div>
+
+      <h2>Who are the slowmadders?</h2>
+      <p>Hello! We’re Emily and Charlie and we call ourselves slowmadders because we enjoy the slowness of nomad life.</p>
+      <p><a>Find out about our story</a></p>
+      
+    </article>
+
+    <nav>
+      <h2>Browse all post tags</h2>
+      <ul>
+        {{ range .Site.Taxonomies.tags }}
+          <li><a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a></li>
+        {{ end }}
+      </ul>
+    </nav>
+
+  </div>
+
+  </div>
+  
+{{ end }}
+
+{{ define "ad-runner" }}
+  {{ partial "ad-runner.html"  }}
+{{ end }}
