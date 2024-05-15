@@ -13,6 +13,7 @@ body {
   line-height: 1.6;
   color: var(--ink);
   background-color: var(--paper);
+  overflow-x: hidden;
 }
 
 header, footer, header h1, footer h2 {
@@ -129,7 +130,6 @@ footer .wrapper {
 header, footer {
   background-color: var(--block);
   height: 0;
-  overflow-x: hidden;
 }
 
 header h1, footer h2 {
