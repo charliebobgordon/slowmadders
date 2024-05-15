@@ -129,6 +129,7 @@ footer .wrapper {
 header, footer {
   background-color: var(--block);
   height: 0;
+  overflow-x: hidden;
 }
 
 header h1, footer h2 {
@@ -549,7 +550,11 @@ header .tags li a {
   }
 
   .wrapper {
-    padding: 60px 30px;
+    padding: 60px 25px;
+  }
+
+  header .wrapper, footer .wrapper {
+    padding: 25px 25px 60px;
   }
 
   nav ul {
