@@ -5,29 +5,46 @@ copyright = 'This website was designed and built by Charlie using Hugo and Cloud
 
 
 
-[[menus.main]]
+[[menus.header]]
 name = 'Vanlife Travel Blog'
 pageRef = '/'
 weight = 10
 
-[[menus.main]]
+[[menus.header]]
 name = 'Our story'
 pageRef = '/about'
 weight = 20
 
-[[menus.main]]
+[[menus.header]]
 url = 'https://www.instagram.com/slowmadders/'
 name = 'Instagram'
 weight = 30
 
 
 
-[[menus.main-signoff]]
+[[menus.footer]]
+name = 'Vanlife Travel Blog'
+pageRef = '/'
+weight = 10
+
+[[menus.footer]]
+name = 'Our story'
+pageRef = '/about'
+weight = 20
+
+[[menus.footer]]
+name = 'RSS feed'
+url = '/index.xml'
+weight = 30
+
+
+
+[[menus.footer-signoff]]
 url = 'mailto:hello@slowmadders.com'
 name = 'hello@slowmadders.com'
 weight = 10
 
-[[menus.main-signoff]]
+[[menus.footer-signoff]]
 url = 'https://www.instagram.com/slowmadders/'
 name = 'Instagram'
 weight = 30

@@ -8,17 +8,18 @@
 </div>
 </header>
 
-<main class="wrapper blog-wrapper">
+<main class="wrapper reading-area">
   <h2 class="listing-heading">{{ .Params.heading }}</h2>
   {{ range $k, $v := (where site.RegularPages "Type" "blog") }}
     {{ if and $k (modBool $k 2) }}
       {{ partial "ad.html"  }}
     {{ end }}
 
-    <a class="post-card" href="{{ .RelPermalink }}">
-      <h3>{{ .LinkTitle }}</h3>
+    <article>
+      <a class="post-card" href="{{ .RelPermalink }}"><h3>{{ .LinkTitle }}</h3></a>
       {{ partial "terms.html" (dict "taxonomy" "tags" "page" .) }}
-    </a>
+    </article>
+    
   {{ end }}
   
 </main>

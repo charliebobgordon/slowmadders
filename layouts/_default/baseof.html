@@ -15,8 +15,7 @@
     <div class="wrapper">
       <div class="top-bar">
         {{ partial "header.html" . }}
-        {{ partial "menu.html" (dict "menuID" "main" "page" .) }}
-        {{ partial "menu.html" (dict "menuID" "main-instagram" "page" .) }}
+        {{ partial "menu.html" (dict "menuID" "header" "page" .) }}
       </div>
 
       {{ block "main" . }}{{ end }}
@@ -33,11 +32,10 @@
 
 {{ define "signoff" }}
 <div class="footer-main">
-  {{ partial "menu.html" (dict "menuID" "main" "page" .) }}
+  {{ partial "menu.html" (dict "menuID" "footer" "page" .) }}
   <div class="section-intro">
     <h2>{{ with .Site.GetPage "/" }}{{ .Params.signoff }}{{ end }}</h2>
-    {{ partial "menu.html" (dict "menuID" "main-signoff" "page" .) }}
+    {{ partial "menu.html" (dict "menuID" "footer-signoff" "page" .) }}
   </div>
-  {{ partial "menu.html" (dict "menuID" "main-instagram" "page" .) }}
 </div>
 {{ end }}
