@@ -13,7 +13,6 @@ body {
   line-height: 1.6;
   color: var(--ink);
   background-color: var(--paper);
-  overflow-x: hidden;
 }
 
 header, footer, header h1, footer h2 {
@@ -64,7 +63,7 @@ h1, h2, h3, h4, h5, h6, .footer-bar p {
 }
 
 .leaf main :is(h1, h2, h3, h4, h5, h6) {
-  margin: 2.5em 0 0 0;
+  margin: 2em 0 0 0;
 }
 
 .leaf main :is(h1, h2, h3, h4, h5, h6):first-child {
@@ -272,6 +271,7 @@ footer {
   text-align: right;
   font-size: 12px;
   line-height: 1.4;
+  color: #999;
 }
 
 footer .section-intro {
@@ -280,7 +280,7 @@ footer .section-intro {
 }
 
 footer .section-intro nav ul {
-  gap: 40px;
+  gap: 20px;
 }
 
 
@@ -516,13 +516,13 @@ header .tags li a {
     display: none;
   }
 
-  .footer-main {
-    flex-direction: column;
-    gap: 20px;
-  }
-
   header .bubble-mask {
     right: -40px;
+    bottom: -30px;
+  }
+
+  header {
+    overflow: hidden;
   }
 
 }
@@ -532,7 +532,6 @@ header .tags li a {
     right: -120px;
     width: 500px;
     height: 500px;
-    bottom: -40px;
   }
 }
 
@@ -541,6 +540,11 @@ header .tags li a {
 
   .desktop-ad {
     display: none;
+  }
+
+  .footer-main {
+    flex-direction: column;
+    gap: 20px;
   }
 
   .mobile-ad {
@@ -553,8 +557,12 @@ header .tags li a {
     padding: 60px 25px;
   }
 
-  header .wrapper, footer .wrapper {
+  header .wrapper {
     padding: 25px 25px 60px;
+  }
+
+  footer .wrapper {
+    padding: 25px;
   }
 
   nav ul {
@@ -602,6 +610,19 @@ header .tags li a {
 
   header h1, footer h2 {
     font-size: 32px;
+  }
+
+  .footer-bar {
+    flex-direction: column;
+    gap: 10px;
+  }
+
+  .footer-bar p {
+    text-align: left;
+  }
+
+  footer {
+    min-height: none;
   }
 
 }
