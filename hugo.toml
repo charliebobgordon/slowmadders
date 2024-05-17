@@ -1,4 +1,4 @@
-baseURL = 'https://slowmadders.com/'
+baseURL = '/'
 languageCode = 'en-gb'
 title = 'Vanlife Travel Blog — Slowmadders'
 copyright = 'This website was designed and built by Charlie using Hugo and Cloudflare Pages. © 2024'
