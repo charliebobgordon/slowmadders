@@ -16,8 +16,8 @@ pageRef = '/about'
 weight = 20
 
 [[menus.header]]
-url = 'https://www.instagram.com/slowmadders/'
-name = 'Instagram'
+url = 'mailto:hello@slowmadders.com'
+name = 'hello@slowmadders.com'
 weight = 30
 
 
@@ -47,7 +47,14 @@ weight = 10
 [[menus.footer-signoff]]
 url = 'https://www.instagram.com/slowmadders/'
 name = 'Instagram'
-weight = 30
+weight = 20
+
+
+
+[[menus.instagram]]
+url = 'https://www.instagram.com/slowmadders/'
+name = 'Instagram'
+weight = 10
 
 
 

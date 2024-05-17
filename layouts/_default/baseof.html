@@ -10,12 +10,15 @@
     {{ end }}
   </title>
 </head>
-<body {{ if eq .BundleType "leaf" }}class='leaf'{{ end }}{{ if eq .Section "about" }}class='about'{{ end }}>
+<body {{ if eq .BundleType "leaf" }}class='leaf'{{ end }}>
   <header>
     <div class="wrapper">
       <div class="top-bar">
         {{ partial "header.html" . }}
+        <input type="checkbox" id="burger"/>
+        <label for="burger">Menu</label>
         {{ partial "menu.html" (dict "menuID" "header" "page" .) }}
+        {{ partial "menu.html" (dict "menuID" "instagram" "page" .) }}
       </div>
 
       {{ block "main" . }}{{ end }}
