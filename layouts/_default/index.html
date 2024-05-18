@@ -2,21 +2,21 @@
 
 <div class="bubble-mask">
   <div class="bubble-overlay"></div>
-  <img src="homepage-bubble.jpg" alt="Charlie & Emily" class="bubble-image"/>
+  <img src="homepage-bubble.jpg" alt="Photo of Charlie & Emily — Slowmadders" class="bubble-image"/>
 </div>
 <div class="section-intro">{{ .Content }}</div>
 </div>
 </header>
 
-<main class="wrapper reading-area">
+<main class="wrapper reading-area" id="posts">
   <h2 class="listing-heading">{{ .Params.heading }}</h2>
   {{ range $k, $v := (where site.RegularPages "Type" "blog") }}
     {{ if and $k (modBool $k 2) }}
       {{ partial "ad.html"  }}
     {{ end }}
 
-    <article>
-      <a class="post-card" href="{{ .RelPermalink }}"><h3>{{ .LinkTitle }}</h3></a>
+    <article class="post-card">
+      <a href="{{ .RelPermalink }}"><h3>{{ .LinkTitle }}</h3></a>
       {{ partial "terms.html" (dict "taxonomy" "tags" "page" .) }}
     </article>
     
