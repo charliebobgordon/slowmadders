@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Travel on Charlie Gordon: Digital Designer</title>
-    <link>https://cbg.design/tags/travel/</link>
-    <description>Recent content in Travel on Charlie Gordon: Digital Designer</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Travel on Vanlife Travel Blog — Slowmadders</title>
+    <link>//localhost:1313/tags/travel/</link>
+    <description>Recent content in Travel on Vanlife Travel Blog — Slowmadders</description>
+    <generator>Hugo</generator>
     <language>en-gb</language>
-    <lastBuildDate>Wed, 15 Mar 2023 11:00:00 -0700</lastBuildDate><atom:link href="https://cbg.design/tags/travel/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>This website was designed and built by Charlie using Hugo and Cloudflare Pages. © 2024</copyright>
+    <lastBuildDate>Wed, 15 Mar 2023 11:00:00 -0700</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/travel/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>The Ultimate Guide to Obtaining a French Long-Stay Visa for Extended Van Life Travel</title>
-      <link>https://cbg.design/blog/post-3/</link>
+      <title>Krimml Waterfalls: How we visited Europe&#39;s highest waterfalls for free</title>
+      <link>//localhost:1313/blog/post-1---copy-6/</link>
       <pubDate>Wed, 15 Mar 2023 11:00:00 -0700</pubDate>
-      
-      <guid>https://cbg.design/blog/post-3/</guid>
-      <description>Occaecat aliqua consequat laborum ut ex aute aliqua culpa quis irure esse magna dolore quis. Proident fugiat labore eu laboris officia Lorem enim. Ipsum occaecat cillum ut tempor id sint aliqua incididunt nisi incididunt reprehenderit. Voluptate ad minim sint est aute aliquip esse occaecat tempor officia qui sunt. Aute ex ipsum id ut in est velit est laborum incididunt. Aliqua qui id do esse sunt eiusmod id deserunt eu nostrud aute sit ipsum.</description>
+      <guid>//localhost:1313/blog/post-1---copy-6/</guid>
+      <description>Introduction Nestled amidst the breathtaking landscapes of Austria lies a natural wonder that captivates all who behold it - the majestic Krimml Waterfalls. As the highest waterfalls in Austria and among the tallest in Europe, Krimml is not merely a cascade of water; it&amp;rsquo;s a symphony of nature&amp;rsquo;s forces, a testament to the raw power and beauty of the alpine landscape. Join us on a virtual journey as we explore the wonders of Krimml Waterfalls.</description>
     </item>
-    
   </channel>
 </rss>

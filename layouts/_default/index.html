@@ -1,9 +1,43 @@
 {{ define "main" }}
 
-<div class="bubble-mask">
-  <div class="bubble-overlay"></div>
-  <img src="homepage-bubble.webp" alt="Photo of Charlie & Emily — Slowmadders" class="bubble-image"/>
-</div>
+{{- $image := .Resources.GetMatch "homepage-bubble.webp" -}}
+
+{{- /* The following is is used as a fallback if the image is not found or if it's a GIF. */ -}}
+{{- $default := printf "<img src=\"%s\"alt=\"%s\" title=\"%s\" />" (.Params.Image | safeURL) $.Title -}}
+
+{{- if $image -}}
+        {{- $imageOriginalWidth := $image.Width -}}
+        {{- $sizes := slice 458 768 1200 -}}
+        {{- $srcset := slice -}}
+        {{- $sizestag := slice -}}
+        {{- range $sizes -}}
+            {{- if lt (mul . 1.2) $imageOriginalWidth -}}
+                {{- $thumb := $image.Resize (printf "%dx webp q100" .) -}}
+                {{- $srcset = $srcset | append (printf ("%s %dw") $thumb.RelPermalink . ) -}}
+                {{- $sizestag = $sizestag | append (printf ("(max-width: %dpx) 100vw") . ) -}}
+            {{- end -}}
+        {{- end -}}
+
+        {{- if ne (len $srcset) 3 -}}
+            {{- $thumb := $image.Resize (printf "%dx webp q100" $imageOriginalWidth) -}}
+            {{- $srcset = $srcset | append (printf ("%s %dw") $thumb.RelPermalink $imageOriginalWidth ) -}}
+            {{- $sizestag = $sizestag | append (printf ("%dpx") $imageOriginalWidth ) -}}
+        {{- end -}}
+        <figure class="bubble-mask">
+          <div class="bubble-overlay"></div>  
+          <img
+                src="{{ $image.RelPermalink }}"
+                class="bubble-image"
+                alt="Photo of Charlie & Emily — Slowmadders"
+                {{- if gt (len $srcset) 0 -}}
+                    {{- (printf " srcset=\"%s\"" (delimit $srcset ", ")) | safeHTMLAttr -}}
+                    {{- (printf " sizes=\"%s\"" (delimit $sizestag ", ")) | safeHTMLAttr -}}
+                {{- end -}}
+            />
+        </figure>
+    {{- end -}}
+
+
 <div class="section-intro">{{ .Content }}</div>
 </div>
 </header>
