@@ -64,7 +64,7 @@ Money-saver #3
 
 ## Avoiding the Gerlos Pass toll-road fees 
 
-If you choose to drive to Krimml, one cost you can avoid is the Alpine toll road, known as the Gerlos Pass. This toll charges 12 EUR for cars/motorhomes or 8.50 EUR for motorbikes. If travelling from East to West (from Zell am See), you can bypass the toll road by following directions to Krimml without encountering it. 
+If you choose to drive to Krimml, one cost you can avoid is the Alpine toll road, known as the Gerlos Pass. This toll charges €12 for cars/motorhomes or €8.50 for motorbikes. If travelling from East to West (from Zell am See), you can bypass the toll road by following directions to Krimml without encountering it. 
 
 If you are travelling from West to East, stick to the 165 road and continue following it to Krimml. When leaving Krimml, heading West, you will need to go back on yourself to reach the 165 road again. A helpful tip is to set your navigation app to avoid tolls to ensure you steer clear of toll roads and navigate in and out of Krimml hassle free. 
 
@@ -76,9 +76,9 @@ By following these tips, you can reach Krimml and enjoy the scenery along the wa
 
 As a couple on a budget, we saved €33 through taking the free Alter Tauernweg trail instead of the ticketed trail, avoiding the Gerlos Pass toll-road fees and parking for free. We feel that attractions bestowed by nature should be accessible to everyone. Savings like this enable us to spend our money on alternatives like going out for lunch, still contributing to the local community. Just imagine the potential savings for a family of five in a similar situation.
 
-- Entrance tickets: Adult 8€, Child (6-15yrs) 4€
-- Gerlos pass alpine toll road:  Car/Motorhome day ticket 12€, Motorbike 8.50€
-- Parking: 5€
+- Entrance tickets: Adult €8, Child (6-15yrs) €4
+- Gerlos pass alpine toll road:  Car/Motorhome day ticket €12, Motorbike €8.50
+- Parking: €5
 
 While the ticketed trail offers the convenience of a reconstructed path with viewing platforms, the free walking trail gives an alternative that's not only budget-friendly but also provides a more adventurous experience. By following the free walking trail you can explore the natural beauty at your own pace, away from the crowds and visit Europe's highest waterfall for free!
 
@@ -94,11 +94,11 @@ Travelling by car offers flexibility and convenience, allowing you to explore on
 
 The cost for an Austrian vignette is as followed: 
 Cars/Campervans (up to 3.5t):
-- 1 day (digital version only) - 8.60€
-- 10 days - 11.50€
+- 1 day (digital version only) - €8.60
+- 10 days - €11.50
 Motorbikes: 
-- 1 day (digital version only) - 3.40€
-- 10 days - 4.60€
+- 1 day (digital version only) - €3.40
+- 10 days - €4.60
 
 If time isn’t on your side it might be worth purchasing a vignette for your trip, however, it depends on where you are based. Krimml is located only a couple of hours from two major cities in Austria, Innsbruck and Salzburg.
 
@@ -112,7 +112,7 @@ Don’t forget, there is a toll-road near Krimml Waterfalls called the Gerlos Pa
 
 ## How to get to Krimml by train or bus 
 
-For budget-conscious travellers, public transport from Salzburg, the nearest major city, is a viable option. Salzburg offers regular train services to Zell am See, starting from 17€ and taking on average 1 hour 30 minutes. From here you can catch the bus to Krimml for 12€ which will take you a further 1 hour and 30 minutes.
+For budget-conscious travellers, public transport from Salzburg, the nearest major city, is a viable option. Salzburg offers regular train services to Zell am See, starting from €17 and taking on average 1 hour 30 minutes. From here you can catch the bus to Krimml for €12 which will take you a further 1 hour and 30 minutes.
 
 You can catch the train from Zell am See to Krimml, but the train station is a 45 minute walk to the waterfalls. The bus will drop you off directly outside the entrance to the falls which is much more convenient.
 
