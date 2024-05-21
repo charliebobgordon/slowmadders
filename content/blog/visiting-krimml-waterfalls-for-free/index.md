@@ -1,5 +1,5 @@
 +++
-title = 'Krimml Waterfalls: How we visited Europe's highest waterfalls for free'
+title = "Krimml Waterfalls: How we visited Europe's highest waterfalls for free"
 date = 2024-05-21
 draft = false
 tags = ['Austria','Travel','Budgeting']
