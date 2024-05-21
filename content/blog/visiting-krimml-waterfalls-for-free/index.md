@@ -132,8 +132,8 @@ You can catch the train from Zell am See to Krimml, but the train station is a 4
 - The trail is a 10.72km round trip, so we’d recommend allowing at least 3 hours to complete the hike. It took us 2 hours 42 minutes, gaining 697m (2286ft), which includes stopping to see the waterfall and a few breaks throughout.
 
 
+![Charlie standing at the base of Krimml waterfalls](charlie-waterfall.jpg)
 
 
 
-![Bryce Canyon National Park](bryce-canyon.jpg)
 
