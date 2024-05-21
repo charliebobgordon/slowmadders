@@ -4,7 +4,7 @@ date = 2024-05-21
 draft = false
 tags = ['Austria','Travel','Budgeting']
 image = "emily-krimml.jpg"
-description = "test"
+description = "Explore Austria’s Krimml Waterfalls for free! Follow our tips on using the free walking trail, finding parking, and avoiding toll roads for a perfect budget-friendly day out."
 
 +++
 
