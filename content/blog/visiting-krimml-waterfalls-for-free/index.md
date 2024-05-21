@@ -63,7 +63,7 @@ Here is a breakdown of the walking time and costs below:
 
 As you can see, the free parking option requires just a slightly longer walk but saves you the expense. The cost is only going to keep increasing year after year.
 
-We found the Gebührenfreier Parkplatz on the [Park4Night app](https://park4night.com/en/place/187412), but the location is also available on Google Maps. We recommend using Park4Night as this is a great resource providing details about different types of parking locations, especially if you’re travelling in a motorhome or campervan. Others leave reviews so you know that the area is safe and gives you peace of mind when leaving your vehicle.
+We found the [Gebührenfreier Parkplatz on the Park4Night app.](https://park4night.com/en/place/187412) We recommend using Park4Night as this is a great resource providing details about different types of parking locations, especially if you’re travelling in a motorhome or campervan. Others leave reviews so you know that the area is safe and gives you peace of mind when leaving your vehicle. The [Gebührenfreier Parkplatz is also on Google Maps.](https://maps.app.goo.gl/ECnvvu2UFSi8Ec436)
 
 There is not a lot of free parking in Krimml, so to secure a space we arrived early as it can fill up quickly, especially in the summer months. An important point to note is you cannot park here between 22:00-05:00, so you probably won’t get away with staying here overnight (sorry campers!), which is often the case with popular areas like Krimml in close proximity to a large attraction. The paid parking areas are not far from here, so make sure you end up in the right place, the Gebührenfreier Parkplatz is right opposite the Intersport shop.
 
