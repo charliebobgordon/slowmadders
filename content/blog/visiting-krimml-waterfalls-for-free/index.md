@@ -120,7 +120,7 @@ From Salzburg Airport to Krimml the fastest route is toll-free and takes 2 hours
 
 We drove to Krimml in our campervan and always choose to take the toll-free roads where possible throughout our travels. We’re lucky enough to not have to worry about time, and we prefer to take the scenic route rather than being stuck on the motorway.
 
-Don’t forget, there is a toll-road near Krimml Waterfalls called the Gerlos Pass alpine road, but it’s possible to avoid this. If you missed it, go back to Money-saver #3 above for more information on how you can dodge the Gerlos Pass.
+Don’t forget, there is a toll-road near Krimml Waterfalls called the Gerlos Pass alpine road, but it’s possible to avoid this. If you missed it, go back to [Money-saver #3](#avoiding-the-gerlos-pass-toll-road-fees) above for more information on how you can dodge the Gerlos Pass.
 
 ## How to get to Krimml by train or bus 
 
