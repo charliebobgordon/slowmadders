@@ -88,6 +88,8 @@ As a couple on a budget, we saved €33 through taking the free Alter Tauernweg 
 
 While the ticketed trail offers the convenience of a reconstructed path with viewing platforms, the free walking trail gives an alternative that's not only budget-friendly but also provides a more adventurous experience. By following the free walking trail you can explore the natural beauty at your own pace, away from the crowds and visit Europe's highest waterfall for free!
 
+![Charlie pointing at the paid trail viewing platform from the Alter Tauernweg free walking trail](charlie-on-trail.jpg)
+
 ## Best time of year to visit Krimml Waterfalls
 
 We visited Krimml waterfalls in September and this was a great time of year to go. The weather was great, it was fairly quiet and being early autumn, the waterfalls are still very fast flowing. The falls generally have the highest amount of flowing water in the summer months of June and July as the higher temperatures melt the glaciers above causing more water to fall. It would still be worthwhile visiting the waterfalls in winter, as parts of the waterfall are frozen which would be incredible to see.
