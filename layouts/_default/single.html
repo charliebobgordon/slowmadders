@@ -17,32 +17,32 @@
 
   </div>
 
-  {{- $image := .Page.Resources.GetMatch .Params.Image -}}
+  {{- $postImage := .Page.Resources.GetMatch .Params.Image -}}
 
   {{- /* The following is is used as a fallback if the image is not found or if it's a GIF. */ -}}
   {{- $default := printf "<img src=\"%s\"alt=\"%s\" title=\"%s\" />" (.Params.Image | safeURL) $.Title -}}
   
-  {{- if $image -}}
-          {{- $imageOriginalWidth := $image.Width -}}
+  {{- if $postImage -}}
+          {{- $postImageOriginalWidth := $postImage.Width -}}
           {{- $sizes := slice 480 540 720 960 -}}
           {{- $srcset := slice -}}
           {{- $sizestag := slice -}}
           {{- range $sizes -}}
-              {{- if lt (mul . 1.2) $imageOriginalWidth -}}
-                  {{- $thumb := $image.Resize (printf "%dx webp q65" .) -}}
+              {{- if lt (mul . 1.2) $postImageOriginalWidth -}}
+                  {{- $thumb := $postImage.Resize (printf "%dx webp q65" .) -}}
                   {{- $srcset = $srcset | append (printf ("%s %dw") $thumb.RelPermalink . ) -}}
                   {{- $sizestag = $sizestag | append (printf ("(max-width: %dpx) 100vw") . ) -}}
               {{- end -}}
           {{- end -}}
   
           {{- if ne (len $srcset) 3 -}}
-              {{- $thumb := $image.Resize (printf "%dx webp q65" $imageOriginalWidth) -}}
-              {{- $srcset = $srcset | append (printf ("%s %dw") $thumb.RelPermalink $imageOriginalWidth ) -}}
-              {{- $sizestag = $sizestag | append (printf ("%dpx") $imageOriginalWidth ) -}}
+              {{- $thumb := $postImage.Resize (printf "%dx webp q65" $postImageOriginalWidth) -}}
+              {{- $srcset = $srcset | append (printf ("%s %dw") $thumb.RelPermalink $postImageOriginalWidth ) -}}
+              {{- $sizestag = $sizestag | append (printf ("%dpx") $postImageOriginalWidth ) -}}
           {{- end -}}
           <figure class="bubble-mask">
               <img
-                  src="{{ $image.RelPermalink }}"
+                  src="{{ $postImage.RelPermalink }}"
                   class="bubble-image"
                   alt="{{ .Title }}"
                   {{- if gt (len $srcset) 0 -}}
@@ -76,32 +76,32 @@
 
     <article>
 
-      {{- $image := .Parent.Resources.GetMatch "about-bubble.webp" -}}
+      {{- $aboutImage := .Parent.Resources.GetMatch "about-bubble.webp" -}}
 
       {{- /* The following is is used as a fallback if the image is not found or if it's a GIF. */ -}}
       {{- $default := printf "<img src=\"%s\"alt=\"%s\" title=\"%s\" />" (.Params.Image | safeURL) $.Title -}}
       
-      {{- if $image -}}
-              {{- $imageOriginalWidth := $image.Width -}}
+      {{- if $aboutImage -}}
+              {{- $aboutImageOriginalWidth := $aboutImage.Width -}}
               {{- $sizes := slice 180 360 -}}
               {{- $srcset := slice -}}
               {{- $sizestag := slice -}}
               {{- range $sizes -}}
-                  {{- if lt (mul . 1.2) $imageOriginalWidth -}}
-                      {{- $thumb := $image.Resize (printf "%dx webp q65" .) -}}
+                  {{- if lt (mul . 1.2) $aboutImageOriginalWidth -}}
+                      {{- $thumb := $aboutImage.Resize (printf "%dx webp q65" .) -}}
                       {{- $srcset = $srcset | append (printf ("%s %dw") $thumb.RelPermalink . ) -}}
                       {{- $sizestag = $sizestag | append (printf ("(max-width: %dpx) 100vw") . ) -}}
                   {{- end -}}
               {{- end -}}
       
               {{- if ne (len $srcset) 3 -}}
-                  {{- $thumb := $image.Resize (printf "%dx webp q65" $imageOriginalWidth) -}}
-                  {{- $srcset = $srcset | append (printf ("%s %dw") $thumb.RelPermalink $imageOriginalWidth ) -}}
-                  {{- $sizestag = $sizestag | append (printf ("%dpx") $imageOriginalWidth ) -}}
+                  {{- $thumb := $aboutImage.Resize (printf "%dx webp q65" $aboutImageOriginalWidth) -}}
+                  {{- $srcset = $srcset | append (printf ("%s %dw") $thumb.RelPermalink $aboutImageOriginalWidth ) -}}
+                  {{- $sizestag = $sizestag | append (printf ("%dpx") $aboutImageOriginalWidth ) -}}
               {{- end -}}
               <figure class="bubble-mask">
                   <img
-                      src="{{ $image.RelPermalink }}"
+                      src="{{ $aboutImage.RelPermalink }}"
                       class="bubble-image"
                       alt="Photo of Charlie & Emily — Slowmadders"
                       {{- if gt (len $srcset) 0 -}}

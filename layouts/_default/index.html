@@ -1,32 +1,32 @@
 {{ define "main" }}
 
-{{- $image := .Resources.GetMatch "homepage-bubble.webp" -}}
+{{- $homeImage := .Resources.GetMatch "homepage-bubble.webp" -}}
 
 {{- /* The following is is used as a fallback if the image is not found or if it's a GIF. */ -}}
 {{- $default := printf "<img src=\"%s\"alt=\"%s\" title=\"%s\" />" (.Params.Image | safeURL) $.Title -}}
 
-{{- if $image -}}
-        {{- $imageOriginalWidth := $image.Width -}}
+{{- if $homeImage -}}
+        {{- $homeImageOriginalWidth := $homeImage.Width -}}
         {{- $sizes := slice 480 720 960 -}}
         {{- $srcset := slice -}}
         {{- $sizestag := slice -}}
         {{- range $sizes -}}
-            {{- if lt (mul . 1.2) $imageOriginalWidth -}}
-                {{- $thumb := $image.Resize (printf "%dx webp q65" .) -}}
+            {{- if lt (mul . 1.2) $homeImageOriginalWidth -}}
+                {{- $thumb := $homeImage.Resize (printf "%dx webp q65" .) -}}
                 {{- $srcset = $srcset | append (printf ("%s %dw") $thumb.RelPermalink . ) -}}
                 {{- $sizestag = $sizestag | append (printf ("(max-width: %dpx) 100vw") . ) -}}
             {{- end -}}
         {{- end -}}
 
         {{- if ne (len $srcset) 3 -}}
-            {{- $thumb := $image.Resize (printf "%dx webp q65" $imageOriginalWidth) -}}
-            {{- $srcset = $srcset | append (printf ("%s %dw") $thumb.RelPermalink $imageOriginalWidth ) -}}
-            {{- $sizestag = $sizestag | append (printf ("%dpx") $imageOriginalWidth ) -}}
+            {{- $thumb := $homeImage.Resize (printf "%dx webp q65" $homeImageOriginalWidth) -}}
+            {{- $srcset = $srcset | append (printf ("%s %dw") $thumb.RelPermalink $homeImageOriginalWidth ) -}}
+            {{- $sizestag = $sizestag | append (printf ("%dpx") $homeImageOriginalWidth ) -}}
         {{- end -}}
         <figure class="bubble-mask">
           <div class="bubble-overlay"></div>  
           <img
-                src="{{ $image.RelPermalink }}"
+                src="{{ $homeImage.RelPermalink }}"
                 class="bubble-image"
                 alt="Photo of Charlie & Emily — Slowmadders"
                 {{- if gt (len $srcset) 0 -}}
