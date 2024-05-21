@@ -12,6 +12,8 @@ Located in the Pinzgau region in Austria, this tiered waterfall plunges down in 
 
 Join us as we show you how you can make your visit to the Krimml Waterfalls a completely free day out.
 
+![The highest tier of Krimml Waterfalls in Austria](waterfall.jpg)
+
 {{< ad >}}
 
 Money-saver #1
