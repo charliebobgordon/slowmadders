@@ -47,10 +47,10 @@ When arriving in Krimml it's hard to miss the many ‘waterfall parking’ signs
 
 Here is a breakdown of the walking time and costs below: 
 
-- Parkplatz 1 (P1): 14 min walk (6€ a day)
-- Parkplatz 2 (P2): 9 min walk (7€ a day)
-- Parkplatz 3 (P3): 9 min walk (7€ a day)
-- Parkplatz 4 (P4): 8 min walk (5€ for the first 2 hours)
+- Parkplatz 1 (P1): 14 min walk (€6 a day)
+- Parkplatz 2 (P2): 9 min walk (€7 a day)
+- Parkplatz 3 (P3): 9 min walk (€7 a day)
+- Parkplatz 4 (P4): 8 min walk (€5 for the first 2 hours)
 - Parkplatz Gebührenfreier: 15 min walk (Free)
 
 As you can see, the free parking option requires just a slightly longer walk but saves you the expense. The cost is only going to keep increasing year after year.
