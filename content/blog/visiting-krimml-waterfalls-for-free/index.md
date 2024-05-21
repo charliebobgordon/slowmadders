@@ -42,6 +42,8 @@ There are some reasons why we think that taking the free walking trail to access
 - There is no disabled access, unlike the ticketed trail which offers access to the lower sections of the waterfall. Anyone requiring disabled access should opt for the ticketed trail to access the lower sections of the waterfall easily.
 - Although there are fenced viewing points throughout the Alter Tauernweg walking trail before it joins onto the ticketed trail, there are no designated viewing platforms which may limit perfect panoramic views.
 
+![Point of view of the Alter Tauernweg rocky walking trail](trail.jpg)  
+
 Money-saver #2
 
 
