@@ -7,5 +7,14 @@
 <link rel="manifest" href="/favicon/site.webmanifest">
 <meta name="theme-color" content="#ffffff">
 <link rel="alternate" type="application/rss+xml" href="{{.Site.BaseURL }}index.xml" title="{{ .Site.Title }}">
+
+{{ if .Description }}
+<meta name="description" content="{{ .Description }}">
+{{ else if .IsPage }}
+<meta name="description" content="{{ .Summary | plainify }}">
+{{ else }}
+<meta name="description" content="We're Charlie & Emily, blogging about our journey as slow mads, be it vanlife tips or travel guides, driving in our van or exploring out of a backpack.">
+{{ end }}
+
 {{ partialCached "head/css.html" . }}
 {{ partialCached "head/js.html" . }}
