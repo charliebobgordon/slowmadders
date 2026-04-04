@@ -535,8 +535,8 @@ header .tags {
 }
 
 header .tags li {
-  color: var(--bright);
-  border-color: var(--bright);
+  color: var(--brighter);
+  border-color: var(--brighter);
 }
 
 
@@ -705,6 +705,7 @@ header .top-bar label {
   .section-intro {
     width: auto !important;
     max-width: none;
+    margin-top: 0;
   }
 
   body:not(.leaf) .bubble-mask,
