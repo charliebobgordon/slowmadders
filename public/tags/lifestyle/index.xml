@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lifestyle on Nomad Travel Blog — Slowmadders</title>
+    <link>//localhost:1313/tags/lifestyle/</link>
+    <description>Recent content in Lifestyle on Nomad Travel Blog — Slowmadders</description>
+    <generator>Hugo</generator>
+    <language>en-gb</language>
+    <copyright>This website was designed and built by Charlie using Hugo and Cloudflare Pages.</copyright>
+    <lastBuildDate>Thu, 02 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/lifestyle/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Our Story: From Office Jobs to Van Life and Backpacking</title>
+      <link>//localhost:1313/blog/our-story/</link>
+      <pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/blog/our-story/</guid>
+      <description>&lt;p&gt;Hi, we’re Charlie &amp;amp; Emily. In 2023 we left our full-time jobs behind to travel in our self-converted campervan.&lt;/p&gt;&#xA;&lt;p&gt;Our love for travel goes back to when we first met in 2015. Since then, every spare moment became a chance to hop on a plane and explore new places. After years of short trips, we wanted something more. In 2020, we took a sabbatical and spent six weeks exploring Southeast Asia, travelling through Thailand, Laos, and Vietnam.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

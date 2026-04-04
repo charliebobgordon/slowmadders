@@ -8,7 +8,7 @@ description = "Explore Austria’s Krimml Waterfalls for free! Follow our tips o
 
 +++
 
-Ever picture yourself standing beneath Europe's largest waterfall, surrounded by the beauty of nature, all while being there for free? Well, prepare as we spill the secrets on experiencing the Krimml Waterfalls on a budget!   
+If you’ve looked into visiting the Krimml Waterfalls, you’ve probably come across parking fees, an entry ticket, and even the Gerlos Alpine Road toll nearby. It can quickly feel like an expensive stop. What’s less obvious is that you don’t actually have to pay to see the waterfalls — with the right approach, you can experience this natural wonder for free.
 
 Located in the Pinzgau region in Austria, this tiered waterfall plunges down in three stages, with the highest point reaching 1,470 metres above sea level. Being the largest waterfall in Europe and the fifth largest in the world, it's a sight that words can't quite capture, and photos only hint at the sheer size and magnificence.
 
@@ -18,9 +18,7 @@ Join us as we show you how you can make your visit to the Krimml Waterfalls a co
 
 {{< ad >}}
 
-Money-saver #1
-
-## Using the free Alter Tauernweg walking trail to access Krimml Waterfalls
+## Free access to Krimml Waterfalls on the Alter Tauernweg trail
 
 You might not be aware that the area around Krimml itself is actually just a public area, and the only paid section is the entrance which guides ticket-holders around a re-constructed path with viewing platforms along the way.
 
@@ -28,7 +26,7 @@ To access the free walking trail, you need to follow the normal route to the wat
 
 ‘Alter Tauernweg’ translates to ‘Old Tauern Trail’, it’s an old path that dates all the way back to the 16th century. The Alter Tauernweg walking trail is, although more physically demanding, a much more peaceful way to visit Krimml Waterfalls by avoiding the crowds, especially during peak periods.
 
-![Google maps showing where to walk from main road to access free trail](#)
+<figure><iframe src="https://www.google.com/maps/embed?pb=!1m24!1m12!1m3!1d2955.665853157023!2d12.16951540771134!3d47.209587178655106!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m9!3e2!4m3!3m2!1d47.2116721!2d12.170054799999999!4m3!3m2!1d47.200970299999994!2d12.1774493!5e0!3m2!1sen!2suk!4v1775237707682!5m2!1sen!2suk" width="100%" height="450" loading="lazy"></iframe><figcaption>The free Alter Tauernweg trail at Krimml Waterfalls</figcaption></figure>
 
 Here’s why we think that taking the free walking trail to access Krimml Waterfalls is a great alternative to entering via the ticket gate with everyone else.
 
@@ -46,35 +44,29 @@ There are some reasons why we think that taking the free walking trail to access
 
 ![Point of view of the Alter Tauernweg rocky walking trail](trail.jpg)  
 
-Money-saver #2
+## How to park for free near Krimml Waterfalls
 
+When arriving in Krimml it's hard to miss the many ‘waterfall parking’ signs, funnelling tourists to the paid parking spots right next to the entrance, they're named P1, P2, P3 and P4. While they might seem appealing at first, it’s worth considering that there is free parking only a 15 minute walk away from the start of both the ticketed and free trails. You’ll also get a better picture of the local area arriving this way.
 
-## Parking close to Krimml Waterfalls
-
-When arriving in Krimml it's hard to miss the many ‘waterfall parking’ signs, funnelling tourists to the paid parking spots right next to the entrance simply named P1, P2, P3 and P4. While they might seem appealing at first, it’s worth considering that Krimml is a very small town and there is free parking only a 15 minute walk away. You’ll also get a better picture of the local area arriving this way.
-
-Here is a breakdown of the walking time and costs below: 
+Here is a breakdown of the walking time and costs (in 2024):
 
 - Parkplatz 1 (P1): 14 min walk (€6 a day)
 - Parkplatz 2 (P2): 9 min walk (€7 a day)
 - Parkplatz 3 (P3): 9 min walk (€7 a day)
 - Parkplatz 4 (P4): 8 min walk (€5 for the first 2 hours)
-- Parkplatz Gebührenfreier: 15 min walk (Free)
+- [Parkplatz Gebührenfreier](https://maps.app.goo.gl/ECnvvu2UFSi8Ec436): 15 min walk (Free)
 
-As you can see, the free parking option requires just a slightly longer walk but saves you the expense. The cost is only going to keep increasing year after year.
+As you can see, the free parking option requires just a slightly longer walk but saves you the expense.
 
-We found the [Gebührenfreier Parkplatz on the Park4Night app.](https://park4night.com/en/place/187412) We recommend using Park4Night as this is a great resource providing details about different types of parking locations, especially if you’re travelling in a motorhome or campervan. Others leave reviews so you know that the area is safe and gives you peace of mind when leaving your vehicle. The [Gebührenfreier Parkplatz is also on Google Maps.](https://maps.app.goo.gl/ECnvvu2UFSi8Ec436)
+We found the [Gebührenfreier Parkplatz on the Park4Night app.](https://park4night.com/en/place/187412) Park4Night is a great resource if you’re travelling in a motorhome or campervan to get details about different types of parking locations. The [Gebührenfreier Parkplatz is also on Google Maps.](https://maps.app.goo.gl/ECnvvu2UFSi8Ec436)
 
 There is not a lot of free parking in Krimml, so to secure a space we arrived early as it can fill up quickly, especially in the summer months. An important point to note is you cannot park here between 22:00-05:00, so you probably won’t get away with staying here overnight (sorry campers!), which is often the case with popular areas like Krimml in close proximity to a large attraction. The paid parking areas are not far from here, so make sure you end up in the right place, the Gebührenfreier Parkplatz is right opposite the Intersport shop.
 
-![Goggle maps pinpoint of all parking places in comparision to waterfalls](#)
-
-Money-saver #3
-
+<figure><iframe src="https://www.google.com/maps/d/u/0/embed?mid=1z7QiIruTx98S3SjsWin9FOzrvBGQbQo&ehbc=2E312F&noprof=1" width="100%" height="480"></iframe><figcaption>Parking options near Krimml Waterfalls</figcaption></figure>
 
 ## Avoiding the Gerlos Pass toll-road fees 
 
-If you choose to drive to Krimml, one cost you can avoid is the Alpine toll road, known as the Gerlos Pass. This toll charges €12 for cars/motorhomes or €8.50 for motorbikes. If travelling from East to West (from Zell am See), you can bypass the toll road by following directions to Krimml without encountering it. 
+If you choose to drive to Krimml, one cost you can avoid is the Alpine toll road, known as the Gerlos Pass. The toll is €12 for cars/motorhomes or €8.50 for motorbikes (in 2024). If travelling from East to West (from Zell am See), you can bypass the toll road by following directions to Krimml without encountering it. 
 
 If you are travelling from West to East, stick to the 165 road and continue following it to Krimml. When leaving Krimml, heading West, you will need to go back on yourself to reach the 165 road again. A helpful tip is to set your navigation app to avoid tolls to ensure you steer clear of toll roads and navigate in and out of Krimml hassle free. 
 
@@ -82,9 +74,9 @@ By following these tips, you can reach Krimml and enjoy the scenery along the wa
 
 {{< ad >}}
 
-## How much did we save during our visit to Krimml Waterfalls?
+## How much you can save during your visit to Krimml Waterfalls
 
-As a couple on a budget, we saved €33 through taking the free Alter Tauernweg trail instead of the ticketed trail, avoiding the Gerlos Pass toll-road fees and parking for free. We feel that attractions bestowed by nature should be accessible to everyone. Savings like this enable us to spend our money on alternatives like going out for lunch, still contributing to the local community. Just imagine the potential savings for a family of five in a similar situation.
+As a couple on a budget, we saved €33 through taking the free Alter Tauernweg trail instead of the ticketed trail, avoiding the Gerlos Pass toll-road fees and parking for free.
 
 - Entrance tickets: Adult €8, Child (6-15yrs) €4
 - Gerlos pass alpine toll road:  Car/Motorhome day ticket €12, Motorbike €8.50
@@ -92,7 +84,7 @@ As a couple on a budget, we saved €33 through taking the free Alter Tauernweg 
 
 While the ticketed trail offers the convenience of a reconstructed path with viewing platforms, the free walking trail gives an alternative that's not only budget-friendly but also provides a more adventurous experience. By following the free walking trail you can explore the natural beauty at your own pace, away from the crowds and visit Europe's highest waterfall for free!
 
-![Charlie pointing at the paid trail viewing platform from the Alter Tauernweg free walking trail](charlie-on-trail.jpg)
+![Charlie happily pointing out the ticketed trail from the free Alter Tauernweg walking trail](charlie-on-trail.jpg "Charlie happily pointing out the ticketed trail from the free Alter Tauernweg walking trail")
 
 ## Best time of year to visit Krimml Waterfalls
 
@@ -102,25 +94,17 @@ Regardless of the season, consider visiting on weekdays to avoid weekend crowds.
 
 ## How to get to Krimml by car
 
-Travelling by car offers flexibility and convenience, allowing you to explore on your own time. We believe this is the easiest option, but there are some points to consider. To drive on the motorways in Austria, you will need to purchase a vignette prior to your journey. The service offers a new 1 day digital vignette which is perfect if you plan to rent a car just for the day.
-
-The cost for an Austrian vignette is as followed: 
-Cars/Campervans (up to 3.5t):
-- 1 day (digital version only) - €8.60
-- 10 days - €11.50
-Motorbikes: 
-- 1 day (digital version only) - €3.40
-- 10 days - €4.60
+Travelling by car offers flexibility and convenience, allowing you to explore on your own time. We believe this is the easiest option, but there are some points to consider. If you opt to drive on the motorways in Austria, you will need to purchase a vignette prior to your journey. The cost of an Austrian vignette varies depending on the vehicle and duration. For the latest prices and options, visit the official website: https://www.asfinag.at/en/toll/vignette/
 
 If time isn’t on your side it might be worth purchasing a vignette for your trip, however, it depends on where you are based. Krimml is located only a couple of hours from two major cities in Austria, Innsbruck and Salzburg.
 
 From Innsbruck Airport to Krimml the fastest route will take 1 hour 38 minutes by car, but a vignette is required as you will be travelling on the motorway. If you have the time, you can consider taking the toll-free route which only adds an extra 33 minutes to your journey time.
 
-From Salzburg Airport to Krimml the fastest route is toll-free and takes 2 hours 6 minutes, crossing through Germany. Don’t worry about any toll road fees in Germany, these only apply to vehicles weighing 7.5t or more.
+From Salzburg Airport to Krimml the fastest route is toll-free and takes 2 hours 6 minutes, crossing through Germany.
 
-We drove to Krimml in our campervan and always choose to take the toll-free roads where possible throughout our travels. We’re lucky enough to not have to worry about time, and we prefer to take the scenic route rather than being stuck on the motorway.
+We drove to Krimml in our campervan and always choose to take the toll-free roads where possible throughout our travels. We’re lucky enough to not have to worry about time, and we prefer to take the scenic route.
 
-Don’t forget, there is a toll-road near Krimml Waterfalls called the Gerlos Pass alpine road, but it’s possible to avoid this. If you missed it, go back to [Money-saver #3](#avoiding-the-gerlos-pass-toll-road-fees) above for more information on how you can dodge the Gerlos Pass.
+Don’t forget, there is a toll-road near Krimml Waterfalls called the Gerlos Pass alpine road, but it’s possible to avoid this (see above).
 
 ## How to get to Krimml by train or bus 
 
@@ -134,9 +118,3 @@ You can catch the train from Zell am See to Krimml, but the train station is a 4
 - Make sure you take plenty of water, especially if it’s a hot day. The trail is tough and a medium level of fitness is recommended
 - Remember! There aren’t any public toilets on the free Alter Tauernweg trail.
 - The trail is a 10.72km round trip, so we’d recommend allowing at least 3 hours to complete the hike. It took us 2 hours 42 minutes, gaining 697m (2286ft), which includes stopping to see the waterfall and a few breaks throughout.
-
-
-
-
-
-

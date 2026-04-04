@@ -2,50 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/tags/austria/</loc>
-    <lastmod>2023-03-15T11:00:00-07:00</lastmod>
-  </url><url>
     <loc>//localhost:1313/blog/</loc>
-    <lastmod>2023-03-15T11:00:00-07:00</lastmod>
+    <lastmod>2026-04-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/budgeting/</loc>
-    <lastmod>2023-03-15T11:00:00-07:00</lastmod>
+    <loc>//localhost:1313/blog/campervan-electrics-do-you-really-need-mains-power-in-your-campervan/</loc>
+    <lastmod>2026-04-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/diy/</loc>
-    <lastmod>2023-03-15T11:00:00-07:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/blog/post-1---copy-6/</loc>
-    <lastmod>2023-03-15T11:00:00-07:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/tags/shoestring/</loc>
-    <lastmod>2023-03-15T11:00:00-07:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/blog/post-1---copy-2/</loc>
-    <lastmod>2023-03-15T11:00:00-07:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/blog/post-1---copy-3/</loc>
-    <lastmod>2023-03-15T11:00:00-07:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/blog/post-1---copy-4/</loc>
-    <lastmod>2023-03-15T11:00:00-07:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/blog/post-1---copy-5/</loc>
-    <lastmod>2023-03-15T11:00:00-07:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/blog/post-1---copy/</loc>
-    <lastmod>2023-03-15T11:00:00-07:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/blog/post-1/</loc>
-    <lastmod>2023-03-15T11:00:00-07:00</lastmod>
+    <loc>//localhost:1313/tags/electrical/</loc>
+    <lastmod>2026-04-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/tags/</loc>
-    <lastmod>2023-03-15T11:00:00-07:00</lastmod>
+    <lastmod>2026-04-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/technology/</loc>
-    <lastmod>2023-03-15T11:00:00-07:00</lastmod>
+    <loc>//localhost:1313/tags/vanlife/</loc>
+    <lastmod>2026-04-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/lifestyle/</loc>
+    <lastmod>2026-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/blog/our-story/</loc>
+    <lastmod>2026-04-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/tags/travel/</loc>
-    <lastmod>2023-03-15T11:00:00-07:00</lastmod>
+    <lastmod>2026-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/austria/</loc>
+    <lastmod>2024-05-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/budgeting/</loc>
+    <lastmod>2024-05-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/blog/krimml-waterfalls-how-we-visited-europes-highest-waterfalls-for-free/</loc>
+    <lastmod>2024-05-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/</loc>
     <lastmod>2023-01-01T08:00:00-07:00</lastmod>

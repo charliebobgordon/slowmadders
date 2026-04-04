@@ -1,22 +1,5 @@
 {{ define "main" }}
 
-  <div class="section-intro">
-    <h1>{{ .Title }}</h1>
-    {{ partial "terms.html" (dict "taxonomy" "tags" "page" .) }}
-
-    <div class="custom-labels">
-      <div class="custom-label reading-time">
-        <span>Reading time</span>
-        <span>{{ .ReadingTime }} min</span>
-      </div>
-      <div class="custom-label posted">
-        <span>Posted</span>
-        <span>{{ .PublishDate.Format "2 January 2006" }}</span>
-      </div>
-    </div>
-
-  </div>
-
   {{- $postImage := .Page.Resources.GetMatch .Params.Image -}}
 
   {{- /* The following is is used as a fallback if the image is not found or if it's a GIF. */ -}}
@@ -51,6 +34,25 @@
                   {{- end -}}
               />
           </figure>
+
+
+  <div class="section-intro">
+    <h1>{{ .Title }}</h1>
+    {{ partial "terms.html" (dict "taxonomy" "tags" "page" .) }}
+
+    <div class="custom-labels">
+      <div class="custom-label reading-time">
+        <span>Reading time</span>
+        <span>{{ .ReadingTime }} min</span>
+      </div>
+      <div class="custom-label posted">
+        <span>Posted</span>
+        <span>{{ .PublishDate.Format "2 January 2006" }}</span>
+      </div>
+    </div>
+
+  </div>
+
       {{- end -}}
 
   </div>
@@ -115,7 +117,7 @@
       <h2>Who are the slowmadders?</h2>
       <p>We're Charlie and Emily and we love slow travel (in our van or out of a bag) and sharing what we discover.</p>
       <p>We created this corner of the net to share our knowledge of vanlife, van builds, backpacking, and the places we explore in more depth that we already do over on Instagram.</p>
-      <p><a>Find out about our story</a></p>
+      <p><a href="/blog/our-story/">Find out about our story</a></p>
       
     </article>
 

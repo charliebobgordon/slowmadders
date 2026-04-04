@@ -8,7 +8,7 @@ aliases = ['/blog/']
 +++
 
 # Our vanlife travel and nomadic living blog
-We’re Charlie and Emily. We made this spot to share our journey as slow nomads, whether we're driving in our van or exploring out of a backpack. Join us for vanlife tips and travel guides as we ski the snow, chase the sun, and just do life on our own terms.
+Sharing our long-term slow nomad journey across vanlife and backpacking, with tips, winter vanlife, skiing, and travel guides.
 
 - [Browse the blogs](#posts)
-- [Our story](#)
+- [Our story](/blog/our-story/)

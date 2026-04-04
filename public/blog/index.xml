@@ -1,62 +1,34 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blogs on Vanlife Travel Blog — Slowmadders</title>
+    <title>Blogs on Nomad Travel Blog — Slowmadders</title>
     <link>//localhost:1313/blog/</link>
-    <description>Recent content in Blogs on Vanlife Travel Blog — Slowmadders</description>
+    <description>Recent content in Blogs on Nomad Travel Blog — Slowmadders</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
-    <copyright>This website was designed and built by Charlie using Hugo and Cloudflare Pages. © 2024</copyright>
-    <lastBuildDate>Wed, 15 Mar 2023 11:00:00 -0700</lastBuildDate>
+    <copyright>This website was designed and built by Charlie using Hugo and Cloudflare Pages.</copyright>
+    <lastBuildDate>Fri, 03 Apr 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="//localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Campervan electrics: Do you really need mains power in your campervan?</title>
+      <link>//localhost:1313/blog/campervan-electrics-do-you-really-need-mains-power-in-your-campervan/</link>
+      <pubDate>Fri, 03 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/blog/campervan-electrics-do-you-really-need-mains-power-in-your-campervan/</guid>
+      <description>&lt;p&gt;If, like us, you&amp;rsquo;ve been endlessly researching whether or not to have mains power, then we’re here to explain why you don’t necessarily need this and can get away with using a simple 12-volt system only.&lt;/p&gt;&#xA;&lt;p&gt;When we were building our campervan, we decided to only have a 12-volt system. We knew we wouldn’t be using high powered appliances and because we were converting a medium wheel base van, we wanted to save space wherever possible.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Our Story: From Office Jobs to Van Life and Backpacking</title>
+      <link>//localhost:1313/blog/our-story/</link>
+      <pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/blog/our-story/</guid>
+      <description>&lt;p&gt;Hi, we’re Charlie &amp;amp; Emily. In 2023 we left our full-time jobs behind to travel in our self-converted campervan.&lt;/p&gt;&#xA;&lt;p&gt;Our love for travel goes back to when we first met in 2015. Since then, every spare moment became a chance to hop on a plane and explore new places. After years of short trips, we wanted something more. In 2020, we took a sabbatical and spent six weeks exploring Southeast Asia, travelling through Thailand, Laos, and Vietnam.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Krimml Waterfalls: How we visited Europe&#39;s highest waterfalls for free</title>
-      <link>//localhost:1313/blog/post-1---copy-6/</link>
-      <pubDate>Wed, 15 Mar 2023 11:00:00 -0700</pubDate>
-      <guid>//localhost:1313/blog/post-1---copy-6/</guid>
-      <description>Introduction Nestled amidst the breathtaking landscapes of Austria lies a natural wonder that captivates all who behold it - the majestic Krimml Waterfalls. As the highest waterfalls in Austria and among the tallest in Europe, Krimml is not merely a cascade of water; it&amp;rsquo;s a symphony of nature&amp;rsquo;s forces, a testament to the raw power and beauty of the alpine landscape. Join us on a virtual journey as we explore the wonders of Krimml Waterfalls.</description>
-    </item>
-    <item>
-      <title>Step-by-Step Guide: Installing a Reversing Camera in a Citroen Relay with Integration to the Built-In Screen</title>
-      <link>//localhost:1313/blog/post-1---copy-2/</link>
-      <pubDate>Wed, 15 Mar 2023 11:00:00 -0700</pubDate>
-      <guid>//localhost:1313/blog/post-1---copy-2/</guid>
-      <description>Driving a large vehicle like a Citroen Relay can sometimes be a challenging task, especially when it comes to reversing and parking. Fortunately, installing a reversing camera can significantly improve your visibility and make maneuvering your van much easier and safer. In this step-by-step guide, we will walk you through the process of installing a reversing camera in a Citroen Relay and integrating it with the built-in screen.&#xA;Before You Begin Before you start the installation process, here are a few things you&amp;rsquo;ll need:</description>
-    </item>
-    <item>
-      <title>Step-by-Step Guide: Installing a Reversing Camera in a Citroen Relay with Integration to the Built-In Screen</title>
-      <link>//localhost:1313/blog/post-1---copy-3/</link>
-      <pubDate>Wed, 15 Mar 2023 11:00:00 -0700</pubDate>
-      <guid>//localhost:1313/blog/post-1---copy-3/</guid>
-      <description>Driving a large vehicle like a Citroen Relay can sometimes be a challenging task, especially when it comes to reversing and parking. Fortunately, installing a reversing camera can significantly improve your visibility and make maneuvering your van much easier and safer. In this step-by-step guide, we will walk you through the process of installing a reversing camera in a Citroen Relay and integrating it with the built-in screen.&#xA;Before You Begin Before you start the installation process, here are a few things you&amp;rsquo;ll need:</description>
-    </item>
-    <item>
-      <title>Step-by-Step Guide: Installing a Reversing Camera in a Citroen Relay with Integration to the Built-In Screen</title>
-      <link>//localhost:1313/blog/post-1---copy-4/</link>
-      <pubDate>Wed, 15 Mar 2023 11:00:00 -0700</pubDate>
-      <guid>//localhost:1313/blog/post-1---copy-4/</guid>
-      <description>Driving a large vehicle like a Citroen Relay can sometimes be a challenging task, especially when it comes to reversing and parking. Fortunately, installing a reversing camera can significantly improve your visibility and make maneuvering your van much easier and safer. In this step-by-step guide, we will walk you through the process of installing a reversing camera in a Citroen Relay and integrating it with the built-in screen.&#xA;Before You Begin Before you start the installation process, here are a few things you&amp;rsquo;ll need:</description>
-    </item>
-    <item>
-      <title>Step-by-Step Guide: Installing a Reversing Camera in a Citroen Relay with Integration to the Built-In Screen</title>
-      <link>//localhost:1313/blog/post-1---copy-5/</link>
-      <pubDate>Wed, 15 Mar 2023 11:00:00 -0700</pubDate>
-      <guid>//localhost:1313/blog/post-1---copy-5/</guid>
-      <description>Driving a large vehicle like a Citroen Relay can sometimes be a challenging task, especially when it comes to reversing and parking. Fortunately, installing a reversing camera can significantly improve your visibility and make maneuvering your van much easier and safer. In this step-by-step guide, we will walk you through the process of installing a reversing camera in a Citroen Relay and integrating it with the built-in screen.&#xA;Before You Begin Before you start the installation process, here are a few things you&amp;rsquo;ll need:</description>
-    </item>
-    <item>
-      <title>Step-by-Step Guide: Installing a Reversing Camera in a Citroen Relay with Integration to the Built-In Screen</title>
-      <link>//localhost:1313/blog/post-1---copy/</link>
-      <pubDate>Wed, 15 Mar 2023 11:00:00 -0700</pubDate>
-      <guid>//localhost:1313/blog/post-1---copy/</guid>
-      <description>Driving a large vehicle like a Citroen Relay can sometimes be a challenging task, especially when it comes to reversing and parking. Fortunately, installing a reversing camera can significantly improve your visibility and make maneuvering your van much easier and safer. In this step-by-step guide, we will walk you through the process of installing a reversing camera in a Citroen Relay and integrating it with the built-in screen.&#xA;Before You Begin Before you start the installation process, here are a few things you&amp;rsquo;ll need:</description>
-    </item>
-    <item>
-      <title>Step-by-Step Guide: Installing a Reversing Camera in a Citroen Relay with Integration to the Built-In Screen</title>
-      <link>//localhost:1313/blog/post-1/</link>
-      <pubDate>Wed, 15 Mar 2023 11:00:00 -0700</pubDate>
-      <guid>//localhost:1313/blog/post-1/</guid>
-      <description>Driving a large vehicle like a Citroen Relay can sometimes be a challenging task, especially when it comes to reversing and parking. Fortunately, installing a reversing camera can significantly improve your visibility and make maneuvering your van much easier and safer. In this step-by-step guide, we will walk you through the process of installing a reversing camera in a Citroen Relay and integrating it with the built-in screen.&#xA;Before You Begin Before you start the installation process, here are a few things you&amp;rsquo;ll need:</description>
+      <link>//localhost:1313/blog/krimml-waterfalls-how-we-visited-europes-highest-waterfalls-for-free/</link>
+      <pubDate>Tue, 21 May 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/blog/krimml-waterfalls-how-we-visited-europes-highest-waterfalls-for-free/</guid>
+      <description>&lt;p&gt;If you’ve looked into visiting the Krimml Waterfalls, you’ve probably come across parking fees, an entry ticket, and even the Gerlos Alpine Road toll nearby. It can quickly feel like an expensive stop. What’s less obvious is that you don’t actually have to pay to see the waterfalls — with the right approach, you can experience this natural wonder for free.&lt;/p&gt;&#xA;&lt;p&gt;Located in the Pinzgau region in Austria, this tiered waterfall plunges down in three stages, with the highest point reaching 1,470 metres above sea level. Being the largest waterfall in Europe and the fifth largest in the world, it&amp;rsquo;s a sight that words can&amp;rsquo;t quite capture, and photos only hint at the sheer size and magnificence.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -1,18 +1,18 @@
 baseURL = '/'
 languageCode = 'en-gb'
-title = 'Vanlife Travel Blog — Slowmadders'
-copyright = 'This website was designed and built by Charlie using Hugo and Cloudflare Pages. © 2024'
-aboutImage = '/homepage-bubble.jpg'
+title = 'Nomad Travel Blog — Slowmadders'
+copyright = 'This website was designed and built by Charlie using Hugo and Cloudflare Pages.'
+aboutImage = '/homepage-bubble.webp'
 
 
 [[menus.header]]
-name = 'Vanlife Travel Blog'
+name = 'Nomad Travel Blog'
 pageRef = '/'
 weight = 10
 
 [[menus.header]]
 name = 'Our story'
-pageRef = '/about'
+pageRef = '/blog/our-story/'
 weight = 20
 
 [[menus.header]]
@@ -23,13 +23,13 @@ weight = 30
 
 
 [[menus.footer]]
-name = 'Vanlife Travel Blog'
+name = 'Nomad Travel Blog'
 pageRef = '/'
 weight = 10
 
 [[menus.footer]]
 name = 'Our story'
-pageRef = '/about'
+pageRef = '/blog/our-story/'
 weight = 20
 
 [[menus.footer]]

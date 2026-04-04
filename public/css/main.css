@@ -61,6 +61,7 @@ header, footer, header h1, footer h2 {
   padding: 120px 40px;
   box-sizing: border-box;
   position: relative;
+  gap: 60px;
 }
 
 
@@ -207,7 +208,7 @@ header nav:first-of-type li:last-child {
 }
 
 footer .wrapper {
-  padding: 80px 40px 30px;
+  padding: 80px 40px 60px;
 }
 
 header nav:last-of-type {
@@ -247,7 +248,7 @@ header .top-bar h1, header .top-bar ul {
 }
 
 header .section-intro:has(p) {
-  width: 42%;
+  width: 46%;
   margin-left: auto;
 }
 
@@ -261,6 +262,10 @@ header .section-intro p {
 
 footer {
   min-height: 560px;
+}
+
+.footer-bar {
+  align-items: end;
 }
 
 .footer-main {
@@ -280,6 +285,7 @@ footer {
   font-size: 12px;
   line-height: 1.4;
   color: #999;
+  margin: 0;
 }
 
 footer .section-intro {
@@ -326,6 +332,7 @@ footer .section-intro nav ul {
 .adsbygoogle {
   background-color: #d9d9d9;
   margin: 60px 0;
+  display: none !important;
 }
 
 .mobile-ad {
@@ -342,12 +349,22 @@ p:first-child {
 .leaf main h5 { font-size: 20px; font-family: "Source Serif 4", "Times New Roman"; font-weight: bold; }
 .leaf main h6 { font-size: 16px; font-family: "Source Serif 4", "Times New Roman"; font-weight: bold; }
 
-.leaf main img {
-  width: 100%;
-  border-radius: 60px;
-  box-shadow: 0px 4px 30px rgba(0, 0, 0, 0.15);
+.leaf main figure {
   display: block;
   margin: 60px 0;
+}
+
+.leaf main figcaption {
+  font-size: 0.75em;
+  margin-top: 15px;
+}
+
+.leaf main img, .leaf main iframe {
+  width: 100%;
+  border-radius: 15px;
+  box-shadow: 0px 4px 30px rgba(0, 0, 0, 0.15);
+  display: block;
+  border: 0;
 }
 
 figure:has(img) {
@@ -374,7 +391,7 @@ figure:has(img) {
   display: flex;
   flex-direction: column;
   gap: 60px;
-  flex: 0;
+  flex: 1;
 }
 
 .sidebar p, .sidebar h2 {
@@ -387,6 +404,10 @@ figure:has(img) {
 
 .sidebar h2 {
   font-size: 20px !important;
+}
+
+.sidebar nav {
+  display: none;
 }
 
 .sidebar nav ul {
@@ -459,18 +480,21 @@ header .bubble-mask {
 body:not(.leaf) .bubble-mask {
   mask: url(/bubble.svg) no-repeat;
   mask-size: 100% 100%;
-  width: 65vw;
-  height: 65vw;
-  bottom: 100px;
+  width: calc(48% + 25vw);
+  height: calc(100% + 10vw);
   right: auto;
-  left: -18%;
-  max-width: 860px;
-  max-height: 800px;
+  left: -25vw;
+  top: -5vw;
+}
+
+body:not(.leaf) header {
+  overflow: hidden;
 }
 
 body:not(.leaf) .bubble-mask .bubble-image {
-  object-position: 0% 25%;
+  object-position: 50% 100%;
 }
+
 
 .bubble-overlay {
   width: 100%;
@@ -493,7 +517,7 @@ body:not(.leaf) .bubble-mask .bubble-image {
   list-style: none;
 }
 
-.tags li a {
+.tags li {
   display: inline;
   text-transform: lowercase;
   font-size: 14px;
@@ -502,6 +526,7 @@ body:not(.leaf) .bubble-mask .bubble-image {
   border: 1px solid var(--bright);
   line-height: 1;
   text-decoration: none;
+  color: var(--bright);
 }
 
 header .tags {
@@ -509,7 +534,7 @@ header .tags {
   order: -1;
 }
 
-header .tags li a {
+header .tags li {
   color: var(--brighter);
   border-color: var(--brighter);
 }
@@ -613,13 +638,6 @@ header .top-bar label {
     overflow: hidden;
   }
 
-  body:not(.leaf) .bubble-mask {
-    width: 62vw;
-    height: 120vw;
-    bottom: 100px;
-    left: -10%;
-  }
-
 }
 
 @media only screen and (max-width: 1024px)  {
@@ -689,16 +707,14 @@ header .top-bar label {
     max-width: none;
   }
 
+  body:not(.leaf) .bubble-mask,
   header .bubble-mask {
-    position: absolute;
-    top: -100px;
-    right: -40px !important;
-    width: 85vw !important;
-    height: 365px !important;
-  }
-
-  header .section-intro {
-    margin-top: 170px !important;
+    position: relative;
+    width: 100vw;
+    height: 90vw;
+    left: 5.5vw;
+    top: 0vw;
+    margin-top: -50vw;
   }
 
   header h1, footer h2 {
@@ -707,7 +723,8 @@ header .top-bar label {
 
   .footer-bar {
     flex-direction: column;
-    gap: 10px;
+    gap: 20px;
+    align-items: baseline;
   }
 
   .footer-bar p {
