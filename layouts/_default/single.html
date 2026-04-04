@@ -28,6 +28,7 @@
                   src="{{ $postImage.RelPermalink }}"
                   class="bubble-image"
                   alt="{{ .Title }}"
+                  fetchpriority="high"
                   {{- if gt (len $srcset) 0 -}}
                       {{- (printf " srcset=\"%s\"" (delimit $srcset ", ")) | safeHTMLAttr -}}
                       {{- (printf " sizes=\"%s\"" (delimit $sizestag ", ")) | safeHTMLAttr -}}

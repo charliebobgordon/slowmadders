@@ -3,7 +3,7 @@
   --ink: #454545;
   --paper: #FAFAF5;
   --brighter: #00FFA3;
-  --bright: #009962;
+  --bright: #008052;
 }
 
 
@@ -535,8 +535,8 @@ header .tags {
 }
 
 header .tags li {
-  color: var(--brighter);
-  border-color: var(--brighter);
+  color: var(--bright);
+  border-color: var(--bright);
 }
 
 

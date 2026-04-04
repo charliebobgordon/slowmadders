@@ -28,7 +28,8 @@
           <img
                 src="{{ $homeImage.RelPermalink }}"
                 class="bubble-image"
-                alt="Photo of Charlie & Emily — Slowmadders"
+                alt="Photo Emily with the van in a ski resort — Winter Vanlife"
+                fetchpriority="high"
                 {{- if gt (len $srcset) 0 -}}
                     {{- (printf " srcset=\"%s\"" (delimit $srcset ", ")) | safeHTMLAttr -}}
                     {{- (printf " sizes=\"%s\"" (delimit $sizestag ", ")) | safeHTMLAttr -}}
