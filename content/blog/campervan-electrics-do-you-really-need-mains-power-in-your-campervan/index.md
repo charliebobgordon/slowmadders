@@ -2,7 +2,7 @@
 title = "Campervan electrics: Do you really need mains power in your campervan?"
 date = 2026-04-03
 draft = false
-tags = ['vanlife','electrical']
+tags = ['van life','electrical']
 image = "van-conversion-electrical-2021.jpg"
 description = "Thinking about mains power in your campervan? Discover why a 12-volt system can be more efficient, how to charge laptops with USB-C, and tips for powering devices like TVs, blenders, and vacuums while travelling off-grid."
 

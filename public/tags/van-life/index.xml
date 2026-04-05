@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Van Life on Van life travel and nomadic living blog — Slowmadders</title>
+    <link>//localhost:1313/tags/van-life/</link>
+    <description>Recent content in Van Life on Van life travel and nomadic living blog — Slowmadders</description>
+    <generator>Hugo</generator>
+    <language>en-gb</language>
+    <copyright>This website was designed and built by Charlie using Hugo and Cloudflare Pages.</copyright>
+    <lastBuildDate>Fri, 03 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/van-life/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Campervan electrics: Do you really need mains power in your campervan?</title>
+      <link>//localhost:1313/blog/campervan-electrics-do-you-really-need-mains-power-in-your-campervan/</link>
+      <pubDate>Fri, 03 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/blog/campervan-electrics-do-you-really-need-mains-power-in-your-campervan/</guid>
+      <description>&lt;p&gt;If, like us, you&amp;rsquo;ve been endlessly researching whether or not to have mains power, then we’re here to explain why you don’t necessarily need this and can get away with using a simple 12-volt system only.&lt;/p&gt;&#xA;&lt;p&gt;When we were building our campervan, we decided to only have a 12-volt system. We knew we wouldn’t be using high powered appliances and because we were converting a medium wheel base van, we wanted to save space wherever possible.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -572,18 +572,19 @@ header .top-bar label {
 
 	header .top-bar nav:first-of-type {
 		opacity: 0;
+    max-width: 0;
+    display: flex;
 		overflow: hidden;
 		position: fixed;
     width: 100vw;
     height: 100vh;
     background-color: var(--block);
     left: 0;
-    display: flex;
     justify-content: center;
     align-items: center;
     font-size: 24px;
     text-align: center;
-    transition: all .5s;
+    transition: opacity .25s;
 	}
 
   header .top-bar nav:first-of-type ul {
@@ -598,6 +599,7 @@ header .top-bar label {
 	
 	#burger:checked ~ nav:first-of-type {
 		opacity: 1;
+    max-width: 100vh;
 	}
 
   #burger:checked ~ label {
@@ -719,7 +721,7 @@ header .top-bar label {
   }
 
   header h1, footer h2 {
-    font-size: 32px;
+    font-size: 28px;
   }
 
   .footer-bar {

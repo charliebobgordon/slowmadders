@@ -1,6 +1,6 @@
 baseURL = '/'
 languageCode = 'en-gb'
-title = 'Nomad Travel Blog — Slowmadders'
+title = 'Van life travel and nomadic living blog — Slowmadders'
 copyright = 'This website was designed and built by Charlie using Hugo and Cloudflare Pages.'
 aboutImage = '/homepage-bubble.webp'
 
