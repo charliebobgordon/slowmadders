@@ -30,7 +30,7 @@ With that in mind, here’s why we think that choosing a 12-volt system is a gre
 
 1. **Cost effective:** Having a 12-volt system will save you money as you won't need to purchase the additional equipment required for a mains power setup
 1. **Simplified set-up process:** With a 12-volt system, your electrical installation will be more straightforward, saving you time and effort, especially if you haven’t done any electrics before. There is no need to worry about installing inverters and adding more wires to the mix.
-Maintenance and troubleshooting:** In the event of any issues, resolving the problem becomes more manageable, because your setup is simpler, even for those with limited knowledge or experience.
+1. **Maintenance and troubleshooting:** In the event of any issues, resolving the problem becomes more manageable, because your setup is simpler, even for those with limited knowledge or experience.
 1. **Minimalist lifestyle:** Having a 12-volt setup encourages you to prioritise your essentials and live a more minimalist lifestyle. This is important with the compact living space of a campervan. How often are you really using a blender?
 1. **Stay off-grid for longer:** If you're seeking an off-grid way of living, a 12-volt setup is ideal. The efficiency of low power appliances means they draw less power from your batteries, making them last longer.
 1. **Space saving:** In a smaller van, every centimetre counts. By using a 12-volt system, you eliminate the need for bulky inverters and chunky fuse boxes that are designed for use in the home. Whereas 12-volt system components are designed with tiny living in mind. This saves valuable space in your campervan, allowing for more storage solutions and maximising usable living space.

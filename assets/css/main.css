@@ -18,7 +18,7 @@ body {
   margin: 0;
   font-family: "Source Serif 4", "Times New Roman";
   font-size: 20px;
-  line-height: 1.6;
+  line-height: 1.5;
   color: var(--ink);
   background-color: var(--paper);
 }
@@ -75,7 +75,7 @@ header .top-bar, footer, .custom-labels, .tags, h1, h2, h3, h4, h5, h6 {
 h1, h2, h3, h4, h5, h6 {
   font-weight: bold;
   letter-spacing: -0.025em;
-  line-height: 1.4;
+  line-height: 1.25;
   color: var(--block);
 }
 
@@ -344,10 +344,10 @@ p:first-child {
 }
 
 .leaf main h2 { font-size: 28px; }
-.leaf main h3 { font-size: 24px; }
-.leaf main h4 { font-size: 20px; }
-.leaf main h5 { font-size: 20px; font-family: "Source Serif 4", "Times New Roman"; font-weight: bold; }
-.leaf main h6 { font-size: 16px; font-family: "Source Serif 4", "Times New Roman"; font-weight: bold; }
+.leaf main h3 { font-size: 20px; }
+.leaf main h4 { font-size: 16px; }
+.leaf main h5 { font-size: 12px; font-family: "Source Serif 4", "Times New Roman"; font-weight: bold; }
+.leaf main h6 { font-size: 10px; font-family: "Source Serif 4", "Times New Roman"; font-weight: bold; }
 
 .leaf main figure {
   display: block;
@@ -571,7 +571,7 @@ header .top-bar label {
 	}
 
 	header .top-bar nav:first-of-type {
-		max-height: 0px;
+		opacity: 0;
 		overflow: hidden;
 		position: fixed;
     width: 100vw;
@@ -597,7 +597,7 @@ header .top-bar label {
   }
 	
 	#burger:checked ~ nav:first-of-type {
-		max-height: 100vh;
+		opacity: 1;
 	}
 
   #burger:checked ~ label {
@@ -649,7 +649,7 @@ header .top-bar label {
   }
 
   body {
-    font-size: 16px;
+    font-size: 18px;
   }
 
 }
