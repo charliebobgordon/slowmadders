@@ -2,60 +2,60 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Van life travel and nomadic living blog — Slowmadders</title>
-    <link>/tags/</link>
+    <link>//localhost:1313/tags/</link>
     <description>Recent content in Tags on Van life travel and nomadic living blog — Slowmadders</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <copyright>This website was designed and built by Charlie using Hugo and Cloudflare Pages.</copyright>
     <lastBuildDate>Fri, 13 Nov 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Skiing</title>
-      <link>/tags/skiing/</link>
+      <link>//localhost:1313/tags/skiing/</link>
       <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
-      <guid>/tags/skiing/</guid>
+      <guid>//localhost:1313/tags/skiing/</guid>
       <description></description>
     </item>
     <item>
       <title>Travel</title>
-      <link>/tags/travel/</link>
+      <link>//localhost:1313/tags/travel/</link>
       <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
-      <guid>/tags/travel/</guid>
+      <guid>//localhost:1313/tags/travel/</guid>
       <description></description>
     </item>
     <item>
       <title>Van Life</title>
-      <link>/tags/van-life/</link>
+      <link>//localhost:1313/tags/van-life/</link>
       <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
-      <guid>/tags/van-life/</guid>
+      <guid>//localhost:1313/tags/van-life/</guid>
       <description></description>
     </item>
     <item>
       <title>Electrical</title>
-      <link>/tags/electrical/</link>
+      <link>//localhost:1313/tags/electrical/</link>
       <pubDate>Fri, 03 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>/tags/electrical/</guid>
+      <guid>//localhost:1313/tags/electrical/</guid>
       <description></description>
     </item>
     <item>
       <title>Lifestyle</title>
-      <link>/tags/lifestyle/</link>
+      <link>//localhost:1313/tags/lifestyle/</link>
       <pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>/tags/lifestyle/</guid>
+      <guid>//localhost:1313/tags/lifestyle/</guid>
       <description></description>
     </item>
     <item>
       <title>Austria</title>
-      <link>/tags/austria/</link>
+      <link>//localhost:1313/tags/austria/</link>
       <pubDate>Tue, 21 May 2024 00:00:00 +0000</pubDate>
-      <guid>/tags/austria/</guid>
+      <guid>//localhost:1313/tags/austria/</guid>
       <description></description>
     </item>
     <item>
       <title>Budgeting</title>
-      <link>/tags/budgeting/</link>
+      <link>//localhost:1313/tags/budgeting/</link>
       <pubDate>Tue, 21 May 2024 00:00:00 +0000</pubDate>
-      <guid>/tags/budgeting/</guid>
+      <guid>//localhost:1313/tags/budgeting/</guid>
       <description></description>
     </item>
   </channel>
