@@ -21,37 +21,42 @@ description = "Planning a ski season in the Portes du Soleil by campervan? Here'
 - [Is your campervan winter-ready?](#is-your-campervan-winter-ready)
 - [Getting internet in the mountains](#getting-internet-in-the-mountains)
 
-Living and skiing out of a campervan for the ski season? Most people think we’re a bit mad. Cold weather, van life, surely it’d be miserable? But we’ve now spent 300 nights across two ski seasons in our van, in the Portes du Soleil (PdS). PdS is a huge ski area spanning France and Switzerland that’s home to Avoriaz, Morzine, Châtel and more, and we’d do it again tomorrow.
+Living and skiing out of a campervan for the ski season? Most people think we’re a bit mad. Cold weather, van life, surely it’d be miserable? But we’ve now spent 300 nights across two ski seasons in our van, in the [Portes du Soleil](https://en.portesdusoleil.com/in-winter/winter-piste-map/) (PdS), and we'd do it again tomorrow!
 
-![Us with our skis and campervan](20240121_162214.jpg)
+![Emily taking off ski boots outside the van parked in snowy Avoriaz with the sun setting with mountain in the background](20240121_162214.jpg)
 
-‘Doing a ski season’ is a dream for many. The usual way is getting a job in resort with free accommodation, and that’s a brilliant option. But you’re often tied to a work schedule without the freedom to move wherever the snow is best and that can limit how much of the mountains you actually get to see. We think winter van life is another way to do it.
 
-When we first thought about doing this, we wanted to find the most van-friendly places to ski and found that many in France are and that the Portes du Soleil is particularly campervan-friendly. The region has lots of overnight parking spots and services we’ll cover in detail later. We’ve visited other ski areas in France too: Alpe d’Huez, Saint-Gervais, Chamonix and La Rosière. Plus 4 Vallées and Aletsch Arena in Switzerland. We found good spots in those areas, but we always come back to the Portes du Soleil for so many reasons. It feels like our ‘winter van life’ home now\!
+‘Doing a ski season’ is a dream for many. The usual way is getting a job in resort with free accommodation, and that’s a brilliant option. But you’re often tied to a work schedule without the freedom to move wherever the snow is best and that can limit how much of the mountains you actually get to see. Enter 'winter vanlife'\!
 
-![Winter van life in the Portes du Soleil](20231221_173353.jpg)
+When we first thought about doing this, we wanted to find the most van-friendly places to ski and found that many in France are and that the Portes du Soleil is particularly campervan-friendly. PdS is a huge ski area spanning France and Switzerland that’s home to Avoriaz, Morzine, Châtel and more, and we’d do it again tomorrow. The region has lots of overnight parking spots and services we’ll cover in detail later.
+
+We’ve visited other ski areas in France too: Alpe d’Huez, Saint-Gervais, Chamonix and La Rosière. Plus 4 Vallées and Aletsch Arena in Switzerland. We found good spots in those areas, but we always come back to the Portes du Soleil for so many reasons. It feels like our ‘winter van life’ home now\!
 
 With the right prep, it’s warm, cheap and a lot more comfortable than it sounds. Here’s what we’ve learned about chasing powder in a van, on a budget over two seasons.
+
+![Van life reality inside our van during winter with skis and clothes drying in the background](20231221_173353.jpg "The reality of drying clothes in a small space after a wet ski day!")
 
 ## Why the Portes du Soleil ski area works so well for winter van life
 
 Spanning 12 resorts across France and Switzerland, the Portes du Soleil is one of the biggest ski areas in the Alps, so there’s that. There’s 600 kilometres of pistes and 208 ski lifts reaching 2,460 metres. The scale of this area is one of the reasons it makes sense to spend a whole season here, there’s a lot to explore.
 
-We’ve now spent 300 nights in our van across the region, staying at mostly free overnight spots without any issues. We spent most of our time parked in Avoriaz at 1,800 metres, in temperatures as low as \-15°C (5°F)\! We’ve also stayed at plenty of spots at around 1,000 metres as well. Most of the spots we stay have ski-in and ski-out access. You can feel quite spoiled even while living out of a van in a ski resort, because you can get so close to the pistes.
+We’ve now spent 300 nights in our van across the region, staying at mostly free overnight spots without any issues. We spent most of our time parked in Avoriaz at 1,800 metres, in temperatures as low as \-15°C\! We’ve also stayed at plenty of spots at around 1,000 metres as well. Most of the spots we stay have ski-in and ski-out access. You can feel quite spoiled even while living out of a van in a ski resort, because you can get so close to the pistes.
 
 There’s more than skiing too. The region has hiking and snowshoeing trails, dedicated sledging slopes, nordic skiing paths, and backcountry too. Some resorts also have a lively après-ski scene, notably Morzine, and some resorts host music festivals throughout the season.
 
 ## Where to fill water, empty waste and find power in the Portes du Soleil ski area
 
-If you’ve been to France in a van before, you might have heard of Flot Bleu stations, there’s a few of these scattered around the Portes du Soleil. Basically, they're large blue boxes with a freshwater tap, toilet hole, and rinsing tap. Flot Bleu stations are designed specifically for campervans and are protected from freezing too. The [Flot Bleu website](https://flotbleu.com/recherche) has a map of all their locations. They cost around €3 to use and accept contactless payments. Once payment is made the insulated door unlocks and you get 20 minutes to use the station. We love the Flot Bleu stations, they make winter van life in France really easy.
+If you’ve been to France in a van before, you might have heard of Flot Bleu stations. Basically, they're large blue boxes with a freshwater tap, toilet hole, and rinsing tap. The stations are designed specifically for campervans and are protected from freezing too. The [Flot Bleu website](https://flotbleu.com/recherche) has a map of all their locations, there are a few scattered around PdS.
 
-![Water and waste facilities in the Portes du Soleil](20240321_160515.jpg)
+Flot Bleu stations cost around €3 to use and accept contactless payments. Once payment is made the insulated door unlocks and you get 20 minutes to use the station. We love the Flot Bleu stations, they make winter van life in France really easy.
+
+![Our van parked outside the Flot Bleu service station in Les Gets](20240321_160515.jpg "The Flot Bleu service station in Les Gets where we refill our water tank.")
 
 We deliberately designed our van setup to be quite simple in case we ever went to regions where campervan infrastructure is more scarce. So instead of a chemical toilet, we use a separating toilet, which gives us more flexibility with disposal.
 
 ### Electric hookups for campervans in winter
 
-Electric hookup points for vans feel like gold dust across ski resorts in winter. Many vans use the sun for juice in the summer, so it seems everyone is hunting for a plug over winter, meaning the few available posts in an area can be full. We’ve even seen people prying open lampposts to wire up a plug; don’t be like them\! We recommend having another way to charge your leisure battery. We’ve outlined where you can find power in the region in specific locations below.
+Electric hookup points for vans feel like gold dust across ski resorts in winter. Many vans use the sun for juice in the summer, so it seems everyone is hunting for a plug over winter, meaning the few available posts in an area can be full. We’ve even seen people prying open lampposts to wire up a plug; don’t be like them\! We recommend having another way to charge your leisure battery. We outline where you can find power in the region in specific locations later in this post.
 
 ### Where to shower in winter
 
@@ -61,8 +66,8 @@ If your van doesn’t have a shower (ours doesn’t\!), some of the ski resorts 
 
 If you have an underslung LPG tank like us, note that there are no LPG refill stations in the resorts. You’ll need to go down the mountain to Cluses or Thonon, both are around a 40-minute drive (28 km) from Morzine, or about an hour drive (42 km) from Avoriaz.
 
-* Fuel station with LPG in Cluses
-* Fuel station with LPG in Thonon
+* [Fuel station with LPG in Cluses](https://maps.app.goo.gl/GEXsfr7gwkVTQZFK7)
+* [Fuel station with LPG in Thonon](https://share.google/GfNXPxpqMFtitAUN9)
 
 We only use gas for cooking and heating water for washing up, so we only need to refill every couple of months, but if you use gas for your heating, you’ll be filling up more often.
 
@@ -70,15 +75,15 @@ We only use gas for cooking and heating water for washing up, so we only need to
 
 After spending at least 300 nights in our van across the Portes du Soleil over two ski seasons, we feel like we have some authority on this subject. Sleeping in ski resorts has felt very safe and really fun\! We prioritise being next to the slopes or at least near a ski bus stop. Being in a campervan means you can often be closer to slopes than you’d ever be in a chalet, especially if you’re used to skiing on a budget.
 
-![Our snow-covered campervan near a ski piste](20260326_135817.jpg)
+![Charlie with skis on beside our snow-covered van in a snowy car park in Avoriaz](20260326_135817.jpg "When the conditions are right it's great to be able to ski right to our van!")
 
 ### The TLDR: Our favourite overnight van spots in the Portes du Soleil
 
-* Les Gets (best all-rounder with access to facilities)
-* La Chapelle-d’Abondance (quiet, excellent for longer stays)
-* Avoriaz (great ski-in/ski-out access)
+* [Les Gets](#les-gets) (best all-rounder with access to facilities)
+* [Avoriaz](#avoriaz) (great ski-in/ski-out access)
+* [La Chapelle-d’Abondance](#la-chapelle-dabondance) (quiet, excellent for longer stays)
 
-We’ve listed the main places we’ve stayed overnight in the van below, pulled from a Google Maps list that we’ve slowly built up over two ski seasons here. If you’d like us to share it with you, send us a few quid on PayPal for our fuel fund and we’ll send the link to your PayPal email address.
+We’ve listed the main places we’ve stayed overnight in the van below, pulled from a Google Maps list that we’ve slowly built up over two ski seasons. If you’d like us to share it with you, [send us a few quid on PayPal](https://www.paypal.com/donate/?business=ZUYA6QY8BPUSG&no_recurring=1) for our fuel fund and we’ll send the link to your PayPal email address.
 
 ### Les Gets
 
@@ -97,9 +102,9 @@ Les Gets is linked with Morzine to form the Les Gets–Morzine ski resort; it ha
 
 The campervan parking location in Les Gets is great because it’s at the bottom of a red piste and chairlift. The main village is only a 20-minute walk (1.3 km), or you can hop on a free bus, day or night. There’s a Sherpa supermarket a 4-minute walk (270 m) from the aire and a larger Carrefour supermarket in town.
 
-![The campervan aire at Les Gets](20251227_100608.jpg)
+![7 motorhomes parked at the aire in Les Gets with a dusting of snow on the ground](20251227_100608.jpg)
 
-![The campervan aire at Les Gets](20260221_175604.jpg)
+![The busy motorhome aire in Les Gets with the red piste in the background](20260221_175604.jpg "The motorhome aire in Les Gets with the bottom of the red piste in the background.")
 
 The aire has a sign listing the nightly rates; €35 for 3 nights for example, it states that the maximum stay is 7 nights and that payment should be made at the village hall. We’ve heard that police occasionally come around to collect fees directly, but during the weeks we spent here across the season, no one ever came by to collect fees.
 
@@ -124,7 +129,7 @@ However, we rank Morzine low for campervan parking because we don’t like the o
 
 The official motorhome aire is a 20-minute walk (1.3 km) from the town centre, but there’s a free ski bus stop across the road. You then get off the bus at the Pleney gondola to reach the ski area or get off at the Super Morzine gondola to go up to Avoriaz instead.
 
-![Morzine in the ski season](vlcsnap-2026-11-13-12h11m49s860.jpg)
+![The busy motorhome aire in Morzine at the start of the ski season](vlcsnap-2026-11-13-12h11m49s860.jpg)
 
 We often found the Flot Bleu service station here out of order and the aire is often full with long-term seasonaires, so it can be difficult to get a spot. The cost to stay was €11.50 during winter. It wasn’t our favourite for overnight parking, it’s quite busy, so we didn’t spend much time there but it can be a good place to start the season to find your feet (wheels?)\! It’s quite sociable and ‘hip’, if you like that?
 
@@ -143,7 +148,7 @@ Located at 1,800 metres, Avoriaz is the highest resort village in the Portes du 
 * **Services:** Public toilets only, Working Centre in the village and multiple supermarkets
 * **Getting to the village:** Varies on where you park (see below)
 
-![Winter walking trails in Avoriaz](20260213_084023.jpg)
+![Winter walking trails in Avoriaz with snowy trees](20260213_084023.jpg "The trails up in Avoriaz are beautiful and are usually covered with snow for the whole season.")
 
 We love Avoriaz in the van as it gives you the best of both worlds. It feels a little remote up there, but you’ve got access to the village which has lots to do. The après-ski is good but more relaxed than Morzine (which works for us\!). However there are music festivals here during the season and a La Folie Douce bar (IYKYK\!).
 
@@ -153,7 +158,7 @@ Due to its higher altitude, it is often snowing up here in Avoriaz when it’s r
 
 There’s a free small car park as you drive up to Avoriaz, it’s busy with cars during the day, but often quiet at night. The chairlift there gives you access to Avoriaz with great ski-in/ski-out on blue pistes. The top of the Super Morzine gondola is also here, so you could go down to Morzine town during the day also. There’s no ski bus stop here, though, and it’s a little far from Avoriaz village if you want to reach it after the lifts close.
 
-![The Zore car park in Avoriaz](20260326_135647.jpg)
+![Charlie with skis on beside in a snowy car park in Avoriaz with 3 campervans](20260326_135647.jpg)
 
 #### Free parking near the farm in Avoriaz
 
@@ -161,25 +166,25 @@ This is one of our favourite spots\! This is closer to town than the previous sp
 
 There are walking routes accessible from this spot and Avoriaz village is a 40-minute (2.5 km) walk away, or take the bus from here during the day. We sometimes just put our skis on and skied to the Carrefour in Avoriaz for a baguette or a coffee from here\! We’ve also skied there in the evening and back along the walking trails after après-ski, but we obviously wouldn’t advise you to do this, stay safe out there\!
 
-![Snow-covered campervan parking in Avoriaz](20260213_090150.jpg)
+![Charlie unlocking the van door while parked in Avoriaz with the van completely covered in snow](20260213_090150.jpg "Crazy amounts of snow in Avoriaz during the 2025/26 season.")
 
-![Snow-covered campervan parking in Avoriaz](20240317_201302.jpg)
+![Walking on the walking trails in Avoriaz at night](20240317_201302.jpg "You can walk to Avoriaz village via the trails, even at night.")
 
-![Snow-covered campervan parking in Avoriaz](20260211_171633.jpg)
+![Our van parked in Avoriaz beside another van in deep snow](20260211_171633.jpg)
 
 #### Parking at the Avoriaz resort entrance
 
 The large outdoor car park at the resort entrance charges €13 per day. Many campervans park here alongside regular cars. Staff usually direct vans to the back of the car park which is a 4-minute walk (300 m) to the nearest slope. There are public toilets at the entrance, but no official campervan services. It’s convenient if you want to be close to Avoriaz town as it’s only a 20-minute walk (1.3 km) away.
 
-![Campervan life in Avoriaz](20240121_162214.jpg)
+![Emily putting on ski boots outside the van parked in snowy Avoriaz with mountain in the background](20240121_162214.jpg)
 
 #### Honourable mention: Coworking space in Avoriaz
 
 This is worth knowing about if you need to get some work done in Avoriaz. One day last season there was an issue with the mobile internet signal in Avoriaz. We were also feeling cooped up and our backs were hurting from being in the van.
 
-![Working from our campervan in Avoriaz](20260217_113205.jpg)
+![Our laptops on the table in the Working Center in Avoriaz](20260217_113205.jpg)
 
-We found there’s a free coworking space in the resort, where you can use your laptop with free wifi. It’s called the Working Centre by Miliboo. The Working Centre is located near the Carrefour supermarket in Avoriaz. Miliboo is a French designer furniture brand, so we’re guessing it’s sponsored by them. It’s furnished really nicely, so thanks Miliboo\! It does get busy, though, and it is slightly depressing being surrounded by people working who should probably be enjoying their holiday\!
+We found there’s a free coworking space in the resort, where you can use your laptop with free wifi. It’s called the [Working Centre by Miliboo.](https://www.avoriaz.com/en/fiche/working-center-by-miliboo/) The Working Centre is located near the Carrefour supermarket in Avoriaz. Miliboo is a French designer furniture brand, so we’re guessing it’s sponsored by them. It’s furnished really nicely, so thanks Miliboo\! It does get busy, though, and it is slightly depressing being surrounded by people working who should probably be enjoying their holiday\!
 
 ### Châtel
 
@@ -194,7 +199,7 @@ Châtel village sits at 1,200 metres, with skiing up to 2,200 metres and direct 
 * **Services:** Large Intermarché with Revolution automatic laundry and daytime electric hookup
 * **Getting to the village:** Varies on where you park (see below)
 
-Châtel village has a really nice aquatic centre with a spa called Forme d’O. It has three pools, one of them outdoors with scenic views, plus several saunas at different temperatures and a steam room. Entry is €25 per person, and we were sometimes let in to shower for free. The village has good vibes at night too: it’s pretty busy, and it seems to be a favourite with the Dutch as well. We really liked Bar La Godille for its cosy busy pub feel, and Wine@Yours is also well worth a visit for good music, and well, wine\!
+Châtel village has a really nice aquatic centre with a spa called [Forme d’O.](https://en.portesdusoleil.com/offers/the-aquatic-centre-forme-do-chatel-en-3962062/) It has three pools, one of them outdoors with scenic views, plus several saunas at different temperatures and a steam room. Entry is €25 per person, and we were sometimes let in to shower for free. The village has good vibes at night too: it’s pretty busy, and it seems to be a favourite with the Dutch as well. We really liked [Bar La Godille](https://maps.app.goo.gl/boHxKdYCtuew67kB6) for its cosy busy pub feel, and [Wine@Yours](https://maps.app.goo.gl/B6WjEmJx2jyNuwif6) is also well worth a visit for good music, and well, wine\!
 
 All the parking options we mention for this area below are within a 10-minute drive (7.2 km) to the large Intermarché supermarket with a fuel station and a Revolution automatic laundry facility, super useful\!
 
@@ -202,13 +207,13 @@ All the parking options we mention for this area below are within a 10-minute dr
 
 There’s a huge free car park serving two of the main lifts to ski Châtel, and it’s the closest sector to Avoriaz. It’s very busy during the day but deserted at night. The ski-in/ski-out is excellent, even for beginners: you can ski back down a green piste to within just 2 metres of your van (not kidding\!). Free ski buses run to Châtel village during the day, and there are public toilets at the ski pass ticket booths, open during the day.
 
-![Campervan parking in Chatel](20251206_133205.jpg)
+![Emily with skis on the piste beside our van in Châtel](20251206_133205.jpg "We love how close to the piste you can get in this car park.")
 
-![Campervan parking in Chatel](20260402_173218.jpg)
+![Large lift car park in Châtel with mountains in the background](20260402_173218.jpg)
 
 We spent Christmas Day here\! After a day on the slopes, we tagged along with a group of Dutchies for après at Chez Crépy (great music) up in the Plaine Dranse sector. Then we skied back down to the only bar/restaurant here for a few more drinks. We stayed here often, though when we needed to be closer to services we based ourselves in La Chapelle-d’Abondance, a 15-minute drive (11 km) away, and drove over in the mornings instead.
 
-![Christmas in Chatel](20251225_182226.jpg)
+![Charlie with random people at après-ski in Châtel on Christmas Night](20251225_182226.jpg)
 
 #### Daytime electric hookup for charging up near Châtel
 
@@ -241,9 +246,9 @@ There’s a nice flat riverside walk and more challenging hikes available from h
 
 The aire is near the Crêt-Béni chairlift which gives you access to the small ski area mentioned earlier. The aire is large and doesn't get busy except during school holidays. A handful of seasonaires park here permanently in beautifully converted vans with log burners and big windows, we were quite jealous of their setups. The main village is a 7-minute walk (450 m) away. The aire has a Flot Bleu for waste disposal and fresh water (€2.50).
 
-![Campervans in La Chapelle-d'Abondance](20240119_100320.jpg)
+![Campervan in the motorhome aire in La Chapelle-d'Abondance](20240119_100320.jpg "Some of the bigger aires attract bigger rigs like this lorry camper.")
 
-![Campervans in La Chapelle-d'Abondance](20260101_131010.jpg)
+![Campervans in the motorhome aire in La Chapelle-d'Abondance](20260101_131010.jpg)
 
 ### Morgins, Switzerland
 
@@ -260,9 +265,9 @@ Tucked away on the Swiss side at around 1,350 metres, Morgins is one of the quie
 
 We also found Morgins a good base for exploring some of the smaller resorts on skis, and you can get really far from here. We liked Champoussin and headed that way a lot from Morgins. We never parked there, but it might be possible, so have a look and let us know\!
 
-This post isn’t meant to turn into a food and drink guide, but La Ferme à Gaby in Champoussin, Switzerland, deserves an honourable mention. We skied there and stopped for a break quite a few times, and a large bottle of Gösser beer was 6 CHF, which has to be one of the best prices for a large beer on the slopes\! It’s near the bottom of the Aiguille des Champeys lift, if you want to find it. Champoussin also has a ‘speed check slope’ as part of the Rivella Fun Zone, at the top of the Bochasses chairlift. You can time how fast you can ski down the steep run, and it’s very fun.
+This post isn’t meant to turn into a food and drink guide, but [La Ferme à Gaby](https://maps.app.goo.gl/7X77dcEckpqHdVwY8) in Champoussin, Switzerland, deserves an honourable mention. We skied there and stopped for a break quite a few times, and a large bottle of Gösser beer was 6 CHF, which has to be one of the best prices for a large beer on the slopes\! It’s near the bottom of the Aiguille des Champeys lift, if you want to find it. Champoussin also has a ‘speed check slope’ as part of the [Rivella Fun Zone](https://en.portesdusoleil.com/offers/rivella-fun-zone-champoussin-val-dilliez-en-6061683/), at the top of the Bochasses chairlift. You can time how fast you can ski down the steep run, and it’s very fun.
 
-![Morgins in Switzerland](20260214_124019.jpg)
+![Emily with a large bottle of Gösser at La Ferme à Gaby mountain restaurant in Champoussin, Switzerland](20260214_124019.jpg)
 
 #### Free parking in Morgins
 
@@ -270,23 +275,23 @@ Morgins doesn’t have an official free camping-car aire, but there’s a free c
 
 #### Paid parking with electric hookup in Morgins
 
-In the same car park as above there are about 6 official campervan spaces with electricity. It cost 14 CHF per night and is managed by the sports centre opposite, you ask about it at the bar there, they’re very friendly\! They had good showers available for 3 CHF. We stayed here in \-14°C (7°F) during the depths of winter to hookup when our leisure batteries were running low. There’s a free ski bus stop opposite that takes you to the cable car that takes you up to the Morgins ski area. From there you can also access bigger resorts like Châtel and Avoriaz if conditions allow. There’s also a Flot Bleu for waste disposal and fresh water just around the corner, this was completely free to use also.
+In the same car park as above there are about 6 official campervan spaces with electricity. It cost 14 CHF per night and is managed by the sports centre opposite, you ask about it at the bar there, they’re very friendly\! They had good showers available for 3 CHF. We stayed here in \-14°C during the depths of winter to hookup when our leisure batteries were running low. There’s a free ski bus stop opposite that takes you to the cable car that takes you up to the Morgins ski area. From there you can also access bigger resorts like Châtel and Avoriaz if conditions allow. There’s also a Flot Bleu for waste disposal and fresh water just around the corner, this was completely free to use also.
 
 ## Beyond these spots: the complete Portes du Soleil overnight parking guide for vans
 
 We’ve shared our favourite locations in this post, but the region has many more spots that we’ve discovered across two full seasons. Over two seasons we’ve gradually built up a complete Google Maps list that includes the exact location of every parking spot we’ve tested, with notes on facilities, ski access and village proximity so we can revisit them later.
 
-If this post has helped you plan your van life ski season and you’d like the full list, send us a few quid on PayPal for our fuel fund. We’ll send the link to your PayPal email address, so you can view the list right in Google Maps on your phone so you’ve always got it with you. Thank you\!
+If this post has helped you plan your van life ski season and you’d like the full list, [send us a few quid on PayPal](https://www.paypal.com/donate/?business=ZUYA6QY8BPUSG&no_recurring=1) for our fuel fund. We’ll send the link to your PayPal email address, so you can view the list right in Google Maps on your phone so you’ve always got it with you. Thank you\!
 
 ## The cost of a ski season in a campervan
 
 Skiing can seem expensive when you’re paying for daily ski hire and ski passes on a short trip, and resort food and accommodation soon add up. But with a van, you bring your own equipment and have your very own kitchen on wheels, so you can keep costs as low as you like. We sometimes even take our own lunch and coffee up the slopes.
 
-![Costs of a campervan ski season](20260404_122733.jpg)
+![Charlie holding a little cup of tea from a flask with Emily and the Avoriaz slopes in the background](20260404_122733.jpg)
 
 The Portes du Soleil also has plenty of salles hors-sac (picnic rooms), so you can eat your own lunch in any weather, which keeps it budget-friendly. This is part of the advantage of it being such a family-friendly resort, as they know not everyone wants to shell out at restaurants on the slopes every day.
 
-![Costs of a campervan ski season](20251206_162250.jpg)
+![Emily balancing a stack of groceries standing outside the van at a supermarket car park](20251206_162250.jpg)
 
 **Don’t have a campervan yet?** Wondering whether to build or buy, and what it will cost? We bought ours for £4,000, spent £1,000 on repairs and about £10,000 on the fit-out. Some people spend ski seasons in vans worth £100k+, and others get by on much less than we spent, so it all comes down to your choices and preferences, nobody is the same\!
 
@@ -296,11 +301,11 @@ If you’re spending the whole season in one resort like the Portes du Soleil, y
 
 Some resorts include free day passes at other ski areas. With our Portes du Soleil pass, we got 36 additional days at various resorts, though some limit you to one day per week per resort, so read the fine print. A campervan is ideal for making the most of these, because you can move between resorts whenever you like and sleep wherever you end up. Seasonaires often don’t have that freedom, as they’re tied to their work location and may have no transport, so exploring other resorts is harder.
 
-![Family trip during the ski season](20260308_184715.jpg)
+![Charlie with his dad and nephew posing at the pink La Rosière sign with mountains in the background](20260308_184715.jpg)
 
 We arranged a trip with our family and met up with them in La Rosière, where we used some of our free days. We also caught up with old friends in Chamonix, and we skied in Alpe d’Huez, Saint-Gervais, Les 4 Vallées and Aletsch Arena too.
 
-![Chamonix in winter](20260126_100541.jpg)
+![Cable car in a misty Chamonix](20260126_100541.jpg)
 
 ## Spending a ski season as a non-EU citizen
 
@@ -312,7 +317,7 @@ We got a six-month French visa for our trip. There’s a lot of paperwork, and y
 
 How much time you have and your budget will probably determine how you’re going to get to the French Alps from the UK. We're the Slowmadders\! So we usually take the cheapest ferry and prefer to avoid all toll roads\! We use [ViaMichelin](https://www.viamichelin.co.uk/) to check the fuel and toll estimates for our journey.
 
-![Ferry crossing from the UK to France](20231031_124102.jpg)
+![Charlie standing beside the van parked on a ferry crossing](20231031_124102.jpg)
 
 If you’ve never driven abroad before and feel nervous about it, don’t worry. Although France has a similar population to the UK, it is more than twice the size, which is why we find the roads there so quiet. We love driving in France, especially on the straight D roads that run through the middle of the country, it’s a joy\!
 
@@ -347,39 +352,39 @@ Most UK vans will have summer tyres fitted. In France’s designated mountain ar
 
 We recommend carrying snow chains. As a campervan, you’re heavier than a car, and if you’ve converted the van yourself, your weight distribution may not be ideal. Chains have saved us on uphill stretches and when getting out of parkups after heavy snow in Avoriaz and Morgins. We have all-season (3PMSF) tyres fitted, but when there’s snow on the ground and we need to go uphill, we still struggle in our front-wheel drive Citroën Relay, and it can feel quite dangerous. If you have a two-wheel drive van, 3PMSF tyres won’t suddenly turn it into a 4x4. Winter tyres perform better if you’re happy to swap them in and out each season, but we chose all-seasons for year-round use and accept the slight hit to MPG.
 
-![Fitting snow chains in winter](20230227_122033.jpg)
+![Emily posing with the snowchains fitted on one of the vans tyres in the UK](20230227_122033.jpg "Practice putting on your chains, before you get to the Alps!")
 
 Get familiar with fitting your chains, you don't want to learn in heavy snow while you’re holding up traffic because you got stuck, or on the side of the road while other cars are sliding past you because they decided to ‘risk it’.
 
-**Pro tip: Don’t buy the cheapest chains.** We did this and the links broke after a couple of uses. A van is heavier and more powerful than a car, so we now use 12mm Goodyear snow chains, which are sturdier and cost only £60. The cheap set had 7mm chains and cost £25, which are better suited to cars. 16mm versions are also available. Buy your chains before you travel, either online or by click-and-collect at somewhere like Norauto in France. Otherwise you risk panic buying at a local supermarket, which may only stock a few expensive models (£200+) that might not fit your tyres. Don’t assume that expensive chains are necessarily stronger, either.
+**Pro tip: Don’t buy the cheapest chains.** We did this and the links broke after a couple of uses. A van is heavier and more powerful than a car, so we now use these [12mm Goodyear snow chains](https://www.amazon.co.uk/dp/B013I9DZ56), which are sturdier and cost only £60. The cheap set had 7mm chains and cost £25, which are better suited to cars. 16mm versions are also available. Buy your chains before you travel, either online or by click-and-collect at somewhere like Norauto in France. Otherwise you risk panic buying at a local supermarket, which may only stock a few expensive models (£200+) that might not fit your tyres. Don’t assume that expensive chains are necessarily stronger, either.
 
-![Fitting snow chains in winter](20260109_161439.jpg)
+![Emily trying to fit the snowchains on one of the vans tyres while snowing in Avoriaz](20260109_161439.jpg)
 
 ### Road conditions in the Portes du Soleil
 
 Many resorts in the PdS are at lower altitudes with skiing higher up (like Morzine and Les Gets), so you won’t often drive on snow-covered roads unless it snows during your journey. Remember that all resorts have snow ploughs on standby to clear roads as soon as heavy snow starts falling because they need to ensure that everyone can reach the resorts easily, including big coaches\! During the two ski seasons we’ve spent living in the PdS, we’ve only had to put on snow chains a handful of times.
 
-![Winter driving in the Portes du Soleil](20251205_083846.jpg)
+![Charlie standing on the road in Avoriaz during heavy snowfall](20260212_133713.jpg "When snowfall is heavy, the roads can disappear!")
 
-![Winter driving in the Portes du Soleil](20260212_133713.jpg)
+![Driving down from Avoriaz on an icy road with a lorry in front](20260218_092940.jpg "These roads have already been cleared, but snow is still falling.")
 
-![Winter driving in the Portes du Soleil](20260218_092940.jpg)
+![Snow plough clearing a hairpin road in the Portes du Soleil after snowfall](20251205_083846.jpg)
 
 ### Bring a snow shovel (and a broom)
 
 Bring a shovel for clearing snow around your van, especially if you’re planning on staying in the same spots for a while like we did. A broom can help you remove snow from the roof, which is important if you have solar panels as you’ll want to maximise power generation, however small\!
 
-![Winter driving in the Portes du Soleil](20260213_080147.jpg)
+![Our van completely covered in snow while parked up in Avoriaz](20260213_080147.jpg "We got proper snowed in up in Avoriaz during the 2025/26 season!")
 
 We often slept in car parks that were ploughed overnight, which left us parked in a rectangle of snow when we woke up in the morning. Because the ploughs pushed snow up around the van, the pile could end up way deeper than the actual snowfall depth, so a snow shovel was essential for this as clearing the snow was a big job.
 
-![Winter driving in the Portes du Soleil](20260212_204511.jpg)
+![Our van completely covered in snow during snow fall at night](20260212_204511.jpg "The snow plough did us dirty here!")
 
 ## Is your campervan winter-ready?
 
 Before you set off to spend a whole winter season in your van, make sure you’re ready so you can spend the season enjoying the slopes instead of fixing problems. When we finished building our van conversion we went to the Peak District to give our build a bit of a dry run so we could sort out any niggles while we were still in the UK.
 
-![Our winter-ready campervan](20240401_192830.jpg)
+![Birds eye view inside our campervan with us looking at the PdS ski map in the seating area](20240401_192830.jpg)
 
 ### How will you manage power in winter?
 
@@ -391,13 +396,13 @@ It all depends on your needs, work out how much power you’re going to need eve
 
 **Drive around:** We have a DC-DC charger fitted in our van, so we can charge our leisure batteries using power from our engine’s alternator while we move spots or drive for the weekly shop. This is the number one way for us, and keeps us topped up through the winter. If you’re tempted to just idle your van to charge, if it’s diesel, check if it has a DPF. Because we did, and made this mistake during our first season and doing this caused issues with our DPF later.
 
-![Power setup in our campervan](20260218_100616.jpg)
+![Our van parked in a supermarket below the freeze line after driving down from Avoriaz with snow still on the roof](20260218_100616.jpg "Conditions can be very different above and below the freeze line!")
 
 **Utilise the small amount of sun:** We have solar panels which helps a little on bluebird days, especially if you’re parked at a high altitude. You’ll get a little trickle of power from the sun in winter.
 
-![Power setup in our campervan](20260110_111914.jpg)
+![Charlie with his head out of the skylight of the van trying to remove snow from the solar panels on the roof while parked in Avoriaz](20260110_111914.jpg)
 
-![Power setup in our campervan](20230311_110638-1.jpg)
+![Charlie kneeling on top of the van removing snow from the solar panels on the roof while parked up in Avoriaz](20230311_110638-1.jpg)
 
 **Plug in to the grid:** We have a simple 12V battery smart charger in our van setup with an electric hookup cable so we can go to an electric hookup point in a pinch.
 
@@ -407,9 +412,9 @@ Our first ski season spent in the van had mild conditions and little snow. We ma
 
 #### Note on leisure batteries in cold temperatures
 
-AGM leisure batteries will keep working in extreme cold, down to about \-40°C (-40°F), and can be charged down to about \-20°C (-4°F). Lithium (LiFePO4) batteries behave differently. They’ll keep working down to about \-20°C (-4°F), which is still very good, but most can’t be charged below 0°C (32°F). That means solar or alternator charging may be blocked until the battery warms up.
+AGM leisure batteries will keep working in extreme cold, down to about \-40°C, and can be charged down to about \-20°C. Lithium (LiFePO4) batteries behave differently. They’ll keep working down to about \-20°C, which is still very good, but most can’t be charged below 0°C. That means solar or alternator charging may be blocked until the battery warms up.
 
-![Power setup in our campervan](20250809_094242.jpg)
+![Our Fogstar Drift ECO 12V 628Ah Lithium Leisure Battery on the ground outside of our van in the UK](20250809_094242.jpg "We fitted a Fogstar 628Ah LifePO4 battery for our second ski season.")
 
 We had AGM batteries in our first season and switched to LiFePO4 for our second. We had no problems with the LiFePO4 because they sit inside the van with some airflow, so heat can reach them. By the time the sun came up and the solar kicked in, the van was usually warm enough for the batteries to accept a charge. The one risk is driving off early on a very cold morning before you’ve heated the van, when the alternator may not be able to charge them. But that’s just an excuse to wait a few minutes and have a coffee. Some people fit heated LiFePO4 batteries to get around this, but we didn’t think it was worth it given the above.
 
@@ -421,7 +426,7 @@ The fridge is one of the biggest power consumers for us. But winter has one adva
 
 When people hear we spent winter in a van in a ski resort, the first question is always “Don’t you get cold in there?” (that or “Where do you poop?”, anyway\!). But nobody asks that about a ski chalet in winter, because it has heating, and so should a campervan prepared for a winter ski season\! Without it you’d be miserable in a chalet or a van. A van also heats up extremely fast, because there’s so little space to warm.
 
-![Keeping warm in our campervan](20231227_213223.jpg)
+![The wall thermometer in our van reading a temperature of 23 celcius and 41% humidity](20231227_213223.jpg)
 
 #### Ways to heat the van in winter
 
@@ -429,7 +434,7 @@ We installed a Chinese diesel heater. It's been very reliable across two seasons
 
 Some opt for gas heaters and it’s an option but uses a lot of LPG and you'll have to refill regularly, especially if you’re using it for cooking too. But it is another popular option.
 
-Is it cold with a heater? No\! Many times we've had to crack a window because it's too hot on the lowest setting. We never ran it overnight either, even at \-14°C (7°F) outside, a thick duvet keeps us warm once you turn it off in the evening. (Just don't stick a limb outside the duvet or you might die\!)
+Is it cold with a heater? No\! Many times we've had to crack a window because it's too hot on the lowest setting. We never ran it overnight either, even at \-14°C outside, a thick duvet keeps us warm once you turn it off in the evening. (Just don't stick a limb outside the duvet or you might die\!)
 
 ### Does your van have insulation?
 
@@ -439,19 +444,19 @@ If you have a heater, insulation might not be essential, but a poorly insulated 
 
 We insulated our floor, ceiling and walls with a mix of PIR board and recycled plastic bottle insulation, which we think keeps the heat in longer. Because we built our van with skiing in mind, we also have a 40mm insulated wall with a sliding door separating the cab from the living area. We treat the cab as the outside, so we don’t insulate the windscreen. If your cab is part of your living space, insulated windscreen covers are worth considering also.
 
-![Van insulation](20230104_105345.jpg)
+![Emily in the van waving pictured through the sliding door that seperates the cab and living space](20230104_105345.jpg "We have an insulated wall with a sliding door seperating our cab and living area.")
 
 ### How will your water system cope in the cold?
 
 If you plan to live in a ski resort in your van, especially at higher-altitude spots, think about how your water system will cope in freezing temperatures and have a plan.
 
-![Campervan water system in winter](20240110_194614.jpg)
+![6 collapsible bottles filled with drinking water on the floor inside our van](20240110_194614.jpg "It never hurts to have backup options when it comes to water storage.")
 
 Underslung external tanks are the most at risk, because they’re exposed to the outside air and get no help from your heating. Internal tanks and pipes usually won’t freeze, because you’re living in the van and keeping it heated. Just make sure there’s airflow to wherever they’re fitted, so the heat can reach them. In either case, pipes tend to freeze before tanks, as they hold far less water, while the sheer volume of water in a tank takes much longer to freeze.
 
 You can wrap external tanks and pipes in insulation, which buys you time but won’t prevent freezing in very cold weather. Some people fit electric heater pads to their tanks, but we prefer to keep things simple and conserve power, so we didn’t bother.
 
-Our tanks are underslung, so our strategy was just to have a backup plan and check the forecast for the altitude where we were parked. If it was due to drop below \-5°C (23°F) overnight for example, we’d drain the tanks and use a 20L container of water kept inside the van instead. That’s less convenient, as you can’t just turn on a tap, but it didn’t happen very often. If space allowed, we’d keep the tanks inside so they stayed warmer, but our van is small and it wasn’t frequent enough to be worth the trouble.
+Our tanks are underslung, so our strategy was just to have a backup plan and check the forecast for the altitude where we were parked. If it was due to drop below \-5°C overnight for example, we’d drain the tanks and use a 20L container of water kept inside the van instead. That’s less convenient, as you can’t just turn on a tap, but it didn’t happen very often. If space allowed, we’d keep the tanks inside so they stayed warmer, but our van is small and it wasn’t frequent enough to be worth the trouble.
 
 ### Do you have a backup plan if it goes wrong?
 
@@ -463,11 +468,11 @@ Heat is the other essential. We carry a cheap, small electric heater, so if our 
 
 Connectivity in the French Alps is better than you might expect. We’re used to struggling for mobile signal in the UK, but we didn’t find that in the Alps, probably because you’re rarely far from a big resort mast and you’re high up. We used mobile internet for our entire trip, working on laptops every day and making frequent video calls.
 
-![Internet setup in our campervan](20251119_175316.jpg)
+![Charlie in the van looking at Avoriaz webcams on his laptop](20251119_175316.jpg)
 
 Our setup is simple: a cheap second-hand Samsung phone (with a cracked screen\!), which we call our burner phone, acting as a dedicated router. We stick it in the van’s skylight on a magnetic mount, which gets around the fact that a metal van is a bit of a Faraday cage. You could also put it near the windscreen.
 
-![Internet setup in our campervan](20240216_134700.jpg)
+![Our Samsung phone on a magnetic mount up in the skylight of our van](20240216_134700.jpg "This is a cheap solution to get mobile internet in your van.")
 
 It’s easy to end up buying a 12V router and external antenna because you’ve seen them on YouTube, but specialist “van life” kit costs more because it’s made for a small market. A phone is made for the mass market, so it’s cheaper, and we’d guess the modem inside is as good or better. It does the job for us. We usually run two mobile plans at once as a backup, which is easy with a dual-SIM phone, or with eSIMs you can store several and switch between them.
 
